@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <link rel="apple-touch-icon" sizes="180x180" href="./favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./favicon/favicon-16x16.png">
+  <link rel="manifest" href="./favicon/manifest.json">
+  <link rel="mask-icon" href="./favicon/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="theme-color" content="#ffffff">
+  <!-- The above 6 tags are all for Favicon settings across the browsers -->
+  <title>Nintendo Switch Data Manipulation</title>
+  <!-- Custom CSS File -->
+  <link rel="stylesheet" href="./custom.css">
+  <!-- JQuery -->
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="crossorigin="anonymous"></script>
+  <!-- Boostrap CSS and Javascript -->
+  <link rel="stylesheet" type="text/css" href=https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css>
+  <script type="text/javascript" src=https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js></script>
+</head>
+
+<body style="margin: 0">
+  <div class="conatiner" style="margin: 2em">
+    <!-- Current Header - Needs Updated -->
+    <div class="row">
+      <div class="col-xs-12 center">
+        <h1>Nintendo Switch Data Manipulation</h1>
+      </div>
+    </div>
+    <!-- End Current Header -->
+    <div id="table-container">
+      <label class="input-Label" for="game-select">Title</label>
+      <select id="game-select"><option disabled selected value> -- Select a Game -- </option></select><br/>
+      <label class="input-Label" for="game-URL">URL</label>
+      <input size="70" id="game-URL"></input><br/>
+      <label class="input-Label" for="game-Docked">Docked</label>
+      <input size="15" id="game-Docked"></input><br/>
+      <label class="input-Label" for="game-Handheld">Handheld</label>
+      <input size="15" id="game-Handheld"></input><br/>
+      <label class="input-Label" for="game-SingleJoycon">SingleJoycon</label>
+      <input size="15" id="game-SingleJoycon"></input><br/>
+      <label class="input-Label" for="game-DoubleJoycon">DoubleJoycon</label>
+      <input size="15" id="game-DoubleJoycon"></input><br/>
+      <label class="input-Label" for="game-ProController">ProController</label>
+      <input size="15" id="game-ProController"></input><br/>
+      <label class="input-Label" for="game-Local">Local</label>
+      <input size="20" id="game-Local"></input><br/>
+      <label class="input-Label" for="game-Wireless">Wireless</label>
+      <input size="20" id="game-Wireless"></input><br/>
+      <label class="input-Label" for="game-Multiplayer">Multiplayer</label>
+      <input size="20" id="game-Multiplayer"></input><br/>
+      <label class="input-Label" for="game-ReleaseDate">ReleaseDate</label>
+      <input size="20" id="game-ReleaseDate"></input><br/>
+      <label class="input-Label" for="game-Publisher">Publisher</label>
+      <input size="20" id="game-Publisher"></input><br/>
+      <label class="input-Label" for="game-Developer">Developer</label>
+      <input size="20" id="game-Developer"></input><br/>
+      <label class="input-Label" for="game-Rating">Rating</label>
+      <input size="1" id="game-Rating"></input><br/>
+      <label class="input-Label" for="game-SortDate">SortDate</label>
+      <input size="6" id="game-SortDate"></input><br/>
+      <label class="input-Label" for="game-Verified">Verified</label>
+      <input type="checkbox" id="game-Verified"></input><span id="debug"></span><br/>
+      <input type="button" value="Update" checked="false" onclick="finish()">
+    </div>
+    <script>
+      var localGamesArray = [];
+    // This reads in the local JSON Data and Parses it Into an Array //
+    $.getJSON('data.json', function(response) {
+      if (response){
+        localGamesArray = response.data;
+      }
+      localGamesArray.sort(function(a,b){ return a.Title.localeCompare(b.Title); });
+      $.each(localGamesArray, function (i, game) {
+        $('#game-select').append($('<option>', { 
+          value: game.Title,
+          text : game.Title 
+        }));
+      });
+    });
+  $('#game-Verified').change(function(){
+    $("#debug").text($("#game-Verified").prop('checked'));
+  });
+
+  $("#game-select").change(function() {
+
+    var title = $(this).val();
+
+    function hasTitleOf(game){
+      return game.Title == title; 
+    }
+
+    var selectedGame = localGamesArray.find(hasTitleOf);
+    $("#game-URL").val(selectedGame.URL);
+    $("#game-Docked").val(selectedGame.Docked);
+    $("#game-Handheld").val(selectedGame.Handheld);
+    $("#game-SingleJoycon").val(selectedGame.SingleJoycon);
+    $("#game-DoubleJoycon").val(selectedGame.DoubleJoycon);
+    $("#game-ProController").val(selectedGame.ProController);
+    $("#game-Local").val(selectedGame.Local);
+    $("#game-Wireless").val(selectedGame.Wireless);
+    $("#game-Multiplayer").val(selectedGame.Multiplayer);
+    $("#game-ReleaseDate").val(selectedGame.ReleaseDate);
+    $("#game-Publisher").val(selectedGame.Publisher);
+    $("#game-Developer").val(selectedGame.Developer);
+    $("#game-Rating").val(selectedGame.Rating);
+    $("#game-SortDate").val(selectedGame.SortDate);
+    $("#game-Verified").prop('checked', selectedGame.Verified);
+    $("#debug").text($("#game-Verified").prop('checked'));
+  });
+
+finish = function() {
+    var JSONObject = {};
+    var UpdatedGame = {};
+    UpdatedGame["Title"] = document.getElementById("game-select").value;
+    UpdatedGame["URL"] = document.getElementById("game-URL").value;
+    UpdatedGame["Docked"] = document.getElementById("game-Docked").value;
+    UpdatedGame["Handheld"] = document.getElementById("game-Handheld").value;
+    UpdatedGame["SingleJoycon"] = document.getElementById("game-SingleJoycon").value;
+    UpdatedGame["DoubleJoycon"] = document.getElementById("game-DoubleJoycon").value;
+    UpdatedGame["ProController"] = document.getElementById("game-ProController").value;
+    UpdatedGame["Local"] = document.getElementById("game-Local").value;
+    UpdatedGame["Wireless"] = document.getElementById("game-Wireless").value;
+    UpdatedGame["Multiplayer"] = document.getElementById("game-Multiplayer").value;
+    UpdatedGame["ReleaseDate"] = document.getElementById("game-ReleaseDate").value;
+    UpdatedGame["Publisher"] = document.getElementById("game-Publisher").value;
+    UpdatedGame["Developer"] = document.getElementById("game-Developer").value;
+    UpdatedGame["Rating"] = document.getElementById("game-Rating").value;
+    UpdatedGame["SortDate"] = document.getElementById("game-SortDate").value;
+    UpdatedGame["Verified"] = document.getElementById("game-Verified").checked;
+
+    // alert("Your new values are: \n" + UpdatedGame.Title +
+    //       "\n URL: " + UpdatedGame.URL +
+    //       "\n Docked: " + UpdatedGame.Docked +
+    //       "\n Handheld: " + UpdatedGame.Handheld +
+    //       "\n SingleJoycon: " + UpdatedGame.SingleJoycon +
+    //       "\n DoubleJoycon: " + UpdatedGame.DoubleJoycon +
+    //       "\n ProController: " + UpdatedGame.ProController +
+    //       "\n Local: " + UpdatedGame.Local +
+    //       "\n Wireless: " + UpdatedGame.Wireless +
+    //       "\n Multiplayer: " + UpdatedGame.Multiplayer +
+    //       "\n ReleaseDate: " + UpdatedGame.ReleaseDate +
+    //       "\n Publisher: " + UpdatedGame.Publisher +
+    //       "\n Developer: " + UpdatedGame.Developer +
+    //       "\n Rating: " + UpdatedGame.Rating +
+    //       "\n SortDate: " + UpdatedGame.SortDate );
+
+    if ( !UpdatedGame.URL || !UpdatedGame.Docked || !UpdatedGame.Handheld || !UpdatedGame.SingleJoycon || !UpdatedGame.DoubleJoycon || !UpdatedGame.ProController || !UpdatedGame.Local || !UpdatedGame.Wireless || !UpdatedGame.Multiplayer || !UpdatedGame.ReleaseDate || !UpdatedGame.Publisher || !UpdatedGame.Developer || !UpdatedGame.Rating || !UpdatedGame.SortDate){
+      // If Any Value is Null or Empty
+      alert("Please check data values!");
+    }
+    else{
+      for (i = 0; i < localGamesArray.length; i++){
+        if (localGamesArray[i].Title == UpdatedGame.Title){
+          localGamesArray[i].Title = UpdatedGame.Title;
+          localGamesArray[i].URL = UpdatedGame.URL;
+          localGamesArray[i].Docked = UpdatedGame.Docked;
+          localGamesArray[i].Handheld = UpdatedGame.Handheld;
+          localGamesArray[i].SingleJoycon = UpdatedGame.SingleJoycon;
+          localGamesArray[i].DoubleJoycon = UpdatedGame.DoubleJoycon;
+          localGamesArray[i].ProController = UpdatedGame.ProController;
+          localGamesArray[i].Local = UpdatedGame.Local;
+          localGamesArray[i].Wireless = UpdatedGame.Wireless;
+          localGamesArray[i].Multiplayer = UpdatedGame.Multiplayer;
+          localGamesArray[i].ReleaseDate = UpdatedGame.ReleaseDate;
+          localGamesArray[i].Publisher = UpdatedGame.Publisher;
+          localGamesArray[i].Developer = UpdatedGame.Developer;
+          localGamesArray[i].Rating = UpdatedGame.Rating;
+          localGamesArray[i].SortDate = UpdatedGame.SortDate;
+          localGamesArray[i].Verified = UpdatedGame.Verified;
+          break;
+        }
+      }
+      JSONObject["data"] = localGamesArray;
+      var AJAXSend = JSON.stringify(JSONObject);
+      //AJAXSend = AJAXSend.replace('/®/g','\u00AE');
+      console.log(AJAXSend);
+      $.ajax({
+        type: 'POST',
+        url: "admin_write.php",
+        data: {games: AJAXSend},
+        success: function(msg) {
+          alert(msg);
+          //window.location.reload(true);
+        },
+        error: function(xhr,textStatus,err)
+        {
+            alert("readyState: " + xhr.readyState + "\n" + 
+                  "responseText: " + xhr.responseText + "\n" +
+                  "status: " + xhr.status + "\n" +
+                  "text status: " + textStatus + "\n" +
+                  "error: " + err);
+        }
+      });
+    }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,396 @@
+﻿<p>
+    <strong>
+        Mon Aug 07 2017
+    </strong>
+    <br> Added in fields for Publisher, Developer, and ESRB Rating
+    <br>
+</p>
+<p>
+    <strong>
+        August 9, 2017
+    </strong>
+    <br> The Elder Scrolls V: Skyrim - Title changed from The Elder Scrolls V: Skyrim to The Elder Scrolls V: Skyrim®
+    <br> Pokken Tournament DX - Title changed from Pokken Tournament DX to Pokkén Tournament DX
+    <br> Pokkén Tournament DX - Rating changed from RP to E 10+
+    <br> Rayman Legends Definitive Edition - Title changed from Rayman Legends Definitive Edition to Rayman® Legends Definitive
+    Edition
+    <br>
+</p>
+<p>
+    <strong>
+        August 11, 2017
+    </strong>
+    <br> Added in the ability to click and drag columns. This allows the user to re-order based on personal preference.
+</p>
+<p>
+    <strong>
+        August 13, 2017
+    </strong>
+    <br> Fixed silly bug that caused Dates to not sort properly.
+</p>
+<p>
+    <strong>
+        August 17, 2017
+    </strong>
+    <br> Got all data for new game ACA NEOGEO MAGICIAN LORD
+    <br> Got all data for new game Sky Ride
+    <br> Got all data for new game The Jackbox Party Pack
+    <br> Got all data for new game The Jackbox Party Pack 2
+    <br>
+</p>
+<p>
+    <strong>
+        August 18, 2017
+    </strong>
+    <br> Minecraft: Story Mode - The Complete Adventure - Release Date changed from TBD to Aug 22, 2017
+    <br> Minecraft: Story Mode - The Complete Adventure - Rating changed from RP to E 10+
+    <br> Physical Contact: SPEED - Release Date changed from TBD to Jul 27, 2017
+    <br>
+</p>
+<p>
+    <strong>
+        August 22, 2017
+    </strong>
+    <br> Got all data for new game Piczle Lines DX
+    <br>
+</p>
+<p>
+    <strong>
+        August 23, 2017
+    </strong>
+    <br> Got all data for new game R.B.I. Baseball 17
+    <br> Got all data for new game League of Evil
+    <br> Got all data for new game forma.8
+    <br>
+</p>
+<p>
+    <strong>
+        August 24, 2017
+    </strong>
+    <br> Fire Emblem Warriors - Rating changed from RP to T
+    <br> EA SPORTS FIFA 18 - Rating changed from RP to E
+    <br> Got all data for new game ACA NEOGEO PUZZLED
+    <br> Sine Mora EX - Release Date changed from Summer 2017 to Aug 08, 2017
+    <br> Sine Mora EX - Publisher changed from THQ Nordic to Nordic Games
+    <br> Sine Mora EX - Rating changed from RP to M
+    <br>
+</p>
+<p>
+    <strong>
+        August 25, 2017
+    </strong>
+    <br> Got all data for new game AWAY: Journey to the Unexpected
+    <br> Got all data for new game Fe
+    <br> Got all data for new game Monster Boy and the Cursed Kingdom
+    <br> Got all data for new game Yoku's Island Express
+    <br> Got all data for new game Unbox: Newbie's Adventure
+    <br> Got all data for new game Nine Parchments
+    <br> Got all data for new game The Bridge
+    <br> Got all data for new game Azure Striker GUNVOLT: STRIKER PACK
+    <br>
+</p>
+<p>
+    <strong>
+        August 26, 2017
+    </strong>
+    <br> Yoku's Island Express - Publisher changed from Team 17 to Team17 Digital Ltd
+    <br> Got all data for new game ONE PIECE: Unlimited World Red Deluxe Edition
+    <br> Got all data for new game Soldam: Drop, Connect, Erase
+    <br> Got all data for new game LEGO Worlds
+    <br>
+</p>
+<p>
+    <strong>
+        August 28, 2017
+    </strong>
+    <br> AWAY: Journey to the Unexpected - Publisher changed from Not Listed to Playdius
+    <br> AWAY: Journey to the Unexpected - Developer changed from Not Listed to Aurelien Regard / Jean-Matthieu Gennisson
+    <br> Fe - Publisher changed from Not Listed to EA Originals
+    <br> Fe - Developer changed from Not Listed to Zoink!
+    <br> Unbox: Newbie's Adventure - Publisher changed from Not Listed to Prospect Games
+    <br> ONE PIECE: Unlimited World Red Deluxe Edition - Publisher changed from Bandai Namco Entertainment America Inc. to Bandai
+    Namco Entertainment
+    <br>
+</p>
+<p>
+    <strong>
+        August 30, 2017
+    </strong>
+    <br> Fire Emblem Warriors - Release Date changed from Fall 2017 to Oct 20, 2017
+    <br> Got all data for new game Fire Emblem Warriors Special Edition
+    <br>
+</p>
+<p>
+    <strong>
+        September 2, 2017
+    </strong>
+    <br> Wargroove - Release Date changed from TBD to Q1 2018
+    <br> Got all data for new game Huntdown
+    <br> Got all data for new game Mulaka
+    <br> Got all data for new game Super Meat Boy Forever
+    <br> Got all data for new game Kentucky Route Zero: TV Edition
+    <br> Got all data for new game Light Fingers
+    <br> Got all data for new game Next Up Hero
+    <br> Got all data for new game Runner3
+    <br> Got all data for new game Shovel Knight: King of Cards
+    <br> Got all data for new game Battle Chef Brigade
+    <br> Got all data for new game Dandara
+    <br> Got all data for new game Dragon Marked For Death
+    <br> Got all data for new game Floor Kids
+    <br> Got all data for new game Mom Hid My Game!
+    <br> Got all data for new game Poly Bridge
+    <br> Got all data for new game Sausage Sports Club
+    <br> Got all data for new game Earth Atlantis
+    <br> Got all data for new game Axiom Verge
+    <br> Got all data for new game Yono and the Celestial Elephants
+    <br> Got all data for new game Golf Story
+    <br> Got all data for new game Wulverblade
+    <br> NBA 2K18 - Release Date changed from September 2017 to Sep 15, 2017
+    <br> Got all data for new game Kingdom: New Lands
+    <br> Got all data for new game Semispheres
+    <br> Got all data for new game Double Dragon 4
+    <br> Got all data for new game Lichtspeer: Double Speer Edition
+    <br> Got all data for new game NeuroVoider
+    <br> Got all data for new game ACA NEOGEO ZED BLADE
+    <br>
+</p>
+<p>
+    <strong>
+        September 7, 2017
+    </strong>
+    <br> CELESTE - Release Date changed from 2017 to Q1 2018
+    <br> Flipping Death - Release Date changed from TBD to Q1 2018
+    <br> Monopoly for Nintendo Switch - Rating changed from RP to E
+    <br> Pocket Rumble - Release Date changed from TBD to 2017
+    <br> RIME - Release Date changed from 2017 to Fall 2017
+    <br> NBA 2K18 - Rating changed from RP to E 10+
+    <br> Got all data for new game ACA NEOGEO BLUE'S JOURNEY
+    <br> Got all data for new game Physical Contact: 2048
+    <br>
+</p>
+<p>
+    <strong>
+        September 9, 2017
+    </strong>
+    <br> Got all data for new game L.A. Noire
+    <br> Got all data for new game Beach Buggy Racing
+    <br> Got all data for new game PAN-PAN A tiny big adventure
+    <br>
+</p>
+<p>
+    <strong>
+        September 12, 2017
+    </strong>
+    <br> Got all data for new game Robonauts
+    <br> Got all data for new game 36 Fragments of Midnight
+    <br>
+</p>
+<p>
+    <strong>
+        September 13, 2017
+    </strong>
+    <br> NBA 2K18 - Publisher changed from 2K Games to Take 2 Interactive Software
+    <br> Got all data for new game NBA 2K18 Legend Edition
+    <br> Got all data for new game NBA 2K18 Legend Edition Gold
+    <br>
+</p>
+<p>
+    <strong>
+        September 14, 2017
+    </strong>
+    <br> Kirby for Nintendo Switch (Working Title) - Title changed from Kirby for Nintendo Switch (Working Title) to Kirby Star
+    Allies
+    <br> Kirby Star Allies - Release Date changed from 2018 to Spring 2018
+    <br> Xenoblade Chronicles 2 - Release Date changed from Holiday 2017 to Dec 01, 2017
+    <br> Xenoblade Chronicles 2 - Rating changed from RP to T
+    <br> Got all data for new game Xenoblade Chronicles 2 Special Edition
+    <br> The Elder Scrolls V: Skyrim® - Release Date changed from Holiday 2017 to Nov 17, 2017
+    <br> Got all data for new game Snipperclips Plus - Cut it out, together!
+    <br> Got all data for new game Snipperclips Plus - Cut it out, together! (Digital Version)
+    <br> Got all data for new game Project Octopath Traveler
+    <br> Got all data for new game Wolfenstein II: The New Colossus
+    <br> Got all data for new game Dragon Quest Builders
+    <br> Got all data for new game DOOM
+    <br> Got all data for new game ACA NEOGEO SPIN MASTER
+    <br> Got all data for new game Quest of Dungeons
+    <br>
+</p>
+<p>
+    <strong>
+        September 15, 2017
+    </strong>
+    <br> The Elder Scrolls V: Skyrim® - Publisher changed from Bethesda Game Studios to Nintendo
+    <br> Got all data for new game DRAGON BALL Xenoverse 2 for Nintendo Switch
+    <br>
+</p>
+<p>
+    <strong>
+        September 16, 2017
+    </strong>
+    <br> Project Octopath Traveler - Title changed from Project Octopath Traveler to project OCTOPATH TRAVELER (working title)
+    <br>
+</p>
+<p>
+    <strong>
+        September 19, 2017
+    </strong>
+    <br> Got all data for new game Conga Master Party!
+    <br> Got all data for new game LEGO® NINJAGO® Movie Video Game
+    <br> Got all data for new game Thimbleweed Park
+    <br>
+</p>
+<p>
+    <strong>
+        September 20, 2017
+    </strong>
+    <br> Battle Chasers Nightwar - Rating changed from RP to T
+    <br> Got all data for new game Tiny Barbarian DX
+    <br>
+</p>
+<p>
+    <strong>
+        September 21, 2017
+    </strong>
+    <br> Got all data for new game Arcade Archives Mario Bros.
+    <br> Got all data for new game ACA NEOGEO ART OF FIGHTING
+    <br>
+</p>
+<p>
+    <strong>
+        September 25, 2017
+    </strong>
+    <br> EA SPORTS FIFA 18 - Title changed from EA SPORTS FIFA 18 to FIFA 18
+    <br> Unbox: Newbie's Adventure - Publisher changed from Prospect Games to Merge Games
+    <br> Axiom Verge - Release Date changed from Oct 17, 2017 to Oct 05, 2017
+    <br> Got all data for new game Tumblestone
+    <br> Got all data for new game Astro Bears Party
+    <br>
+</p>
+<p>
+    <strong>
+        September 26, 2017
+    </strong>
+    <br> Sonic Forces - Release Date changed from Holiday 2017 to Nov 07, 2017
+    <br>
+</p>
+<p>
+    <strong>
+        September 27, 2017
+    </strong>
+    <br> Got all data for new game Farming Simulator Nintendo Switch Edition
+    <br> Got all data for new game Spelunker Party!
+    <br> Got all data for new game Touhou Kobuto V: Burst Battle
+    <br> Got all data for new game OXENFREE
+    <br> Got all data for new game Lovers in a Dangerous Spacetime
+    <br> Got all data for new game Binaries
+    <br> Got all data for new game Brave Dungeon + Dark Witch Story:COMBAT
+    <br> Got all data for new game BUTCHER
+    <br> Got all data for new game DEEMO
+    <br> Earth Atlantis - Release Date changed from Fall 2017 to Sep 28, 2017
+    <br> Golf Story - Release Date changed from Sep 2017 to Sep 28, 2017
+    <br> Got all data for new game INVERSUS Deluxe
+    <br> Got all data for new game Pankapu
+    <br> Got all data for new game Physical Contact: Picture Place
+    <br> Got all data for new game PICROSS S
+    <br> Got all data for new game Sparkle 2
+    <br> Got all data for new game Tower Of Babel
+    <br>
+</p>
+<p>
+    <strong>
+        September 28, 2017
+    </strong>
+    <br> Got all data for new game ACA NEOGEO BURNING FIGHT
+    <br>
+</p>
+<p>
+    <strong>
+        October 1, 2017
+    </strong>
+    <br> Got all data for new game Syberia
+    <br> Got all data for new game Ninja Shodown
+    <br> Got all data for new game Volgarr the Viking
+    <br>
+</p>
+<p>
+    <strong>
+        October 3, 2017
+    </strong>
+    <br> Wulverblade - Release Date changed from Sep 2017 to Oct 2017
+    <br> Got all data for new game Don't Knock Twice
+    <br> Stardew Valley - Release Date changed from 2017 to Oct 05, 2017
+    <br>
+</p>
+<p>
+    <strong>
+        October 4, 2017
+    </strong>
+    <br> Got all data for new game Just Dance® 2018
+    <br>
+</p>
+<p>
+    <strong>
+        October 7, 2017
+    </strong>
+    <br> Unbox: Newbie's Adventure - Release Date changed from 2017 to Nov 21, 2017
+    <br> Unbox: Newbie's Adventure - Rating changed from RP to E
+    <br> Got all data for new game Just Dance® 2018
+    <br> Got all data for new game Party Golf
+    <br> Got all data for new game Rogue Trooper Redux
+    <br> Got all data for new game The Flame In The Flood: Complete Edition
+    <br> Wulverblade - Release Date changed from Oct 2017 to Oct 12, 2017
+    <br> Wulverblade - Publisher changed from Not Listed to Darkwind Media
+    <br> Wulverblade - Rating changed from RP to M
+    <br> Yono and the Celestial Elephants - Rating changed from RP to E
+    <br> Got all data for new game 88 Heroes - 98 Heroes Edition
+    <br> Got all data for new game ACA NEOGEO METAL SLUG X
+    <br>
+</p><p>
+<strong>
+October 8, 2017
+</strong>
+<br>
+</p>
+<p>
+<strong>
+October 9, 2017
+</strong>
+<br>
+</p>
+<p>
+<strong>
+October 19, 2017
+</strong>
+<br>
+Got all data for new game Human: Fall Flat<br>
+Got all data for new game This Is the Police<br>
+Got all data for new game Syberia 2<br>
+Got all data for new game MXGP3 - The Official Motocross Videogame<br>
+RIME - Title changed from RIME to RiME<br>
+RiME - Release Date changed from Fall 2017 to Nov 14, 2017<br>
+RiME - Publisher changed from Tequila Works / Grey Box to Grey Box<br>
+RiME - Developer changed from Not Listed to Tequila Works<br>
+RiME - Rating changed from RP to E 10+<br>
+DOOM - Release Date changed from Holiday 2017 to Nov 10, 2017<br>
+Got all data for new game Heroes of the Monkey Tavern<br>
+Got all data for new game Cartoon Network: Battle Crashers<br>
+Monopoly for Nintendo Switch - Title changed from Monopoly for Nintendo Switch to MONOPOLY® for Nintendo Switch<br>
+MONOPOLY® for Nintendo Switch - Release Date changed from Fall 2017 to Oct 31, 2017<br>
+Got all data for new game Monster Jam Crush It!<br>
+Got all data for new game King Oddball<br>
+Got all data for new game Violett<br>
+Got all data for new game Knight Terrors<br>
+Got all data for new game The Mummy Demastered<br>
+Got all data for new game ACA NEOGEO ROBO ARMY<br>
+Got all data for new game Elliot Quest<br>
+Got all data for new game JYDGE<br>
+Got all data for new game Revenant Saga<br>
+Got all data for new game Super Ping Pong Trick Shot<br>
+Got all data for new game The Count Lucanor<br>
+Got all data for new game The Jackbox Party Pack 4<br>
+Got all data for new game Putty Pals<br>
+Got all data for new game ACA NEOGEO THE KING OF FIGHTERS '95<br>
+Got all data for new game Neon Chrome<br>
+Got all data for new game Squareboy vs Bullies: Arena Edition<br>
+Unbox: Newbie's Adventure - Release Date changed from Nov 21, 2017 to Oct 12, 2017<br>
+</p>

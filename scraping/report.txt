@@ -1,0 +1,2380 @@
+---------------------------------------------------------
+August 9, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 97 games from that list.
+The resulting list of games to update is 36 games long.
+Successfully opened Nintendo's Website and found 136 links.
+Rejected Splatoon 2 from data as requested.
+Rejected ARMS from data as requested.
+Rejected Ultra Street Fighter II: The Final Challengers from data as requested.
+Rejected Minecraft: Nintendo Switch Edition - Digital Version from data as requested.
+Rejected Mario Kart 8 Deluxe from data as requested.
+Rejected Has Been Heroes from data as requested.
+Rejected The Binding of Isaac: Afterbirth+ from data as requested.
+Rejected Blaster Master Zero from data as requested.
+Rejected 1-2-Switch from data as requested.
+Rejected Just Dance 2017 from data as requested.
+Rejected Shovel Knight: Specter of Torment from data as requested.
+Rejected Shovel Knight: Treasure Trove from data as requested.
+Rejected Snipperclips - Cut it out, together! from data as requested.
+Rejected Super Bomberman R from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Master Edition from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Special Edition from data as requested.
+Rejected Sine Mora EX from data as requested.
+Rejected SteamWorld Dig 2 from data as requested.
+Rejected Severed from data as requested.
+Rejected ACA NEOGEO AERO FIGHTERS 2 from data as requested.
+Rejected GUNBARICH for Nintendo Switch from data as requested.
+Rejected Puzzle Adventure Blockle from data as requested.
+Rejected Retro City Rampage DX from data as requested.
+Rejected STRIKERS1945 for Nintendo Switch from data as requested.
+Rejected Use Your Words from data as requested.
+Rejected Infinite Minigolf from data as requested.
+Rejected NAMCO MUSEUM from data as requested.
+Rejected NAMCO MUSEUM (PAC-MAN VS. Free Multiplayer-only Ver.) from data as requested.
+Rejected Ultra Hyperball from data as requested.
+Rejected ACA NEOGEO SUPER SIDEKICKS from data as requested.
+Rejected Overcooked Special Edition from data as requested.
+Rejected Qbics Paint from data as requested.
+Rejected Fate/EXTELLA: The Umbral Star from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN from data as requested.
+Rejected BOOST BEAST from data as requested.
+Rejected ACA NEOGEO FATAL FURY SPECIAL from data as requested.
+Rejected De Mambo from data as requested.
+Rejected Death Squared from data as requested.
+Rejected I and Me from data as requested.
+Rejected Levels+ : Addictive Puzzle Game from data as requested.
+Rejected ACA NEOGEO METAL SLUG 2 from data as requested.
+Rejected Bulb Boy from data as requested.
+Rejected IMPLOSION from data as requested.
+Rejected Shephy from data as requested.
+Rejected Vaccine from data as requested.
+Rejected ACA NEOGEO MAGICAL DROP II from data as requested.
+Rejected GoNNER from data as requested.
+Rejected ACA NEOGEO FATAL FURY 2 from data as requested.
+Rejected Oceanhorn - Monster of Uncharted Seas from data as requested.
+Rejected Cave Story+ from data as requested.
+Rejected ACA NEOGEO SENGOKU from data as requested.
+Rejected MIGHTY GUNVOLT BURST from data as requested.
+Rejected Cars 3: Driven to Win from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS 2nd Squad from data as requested.
+Rejected Shantae: Half-Genie Hero from data as requested.
+Rejected Slime-san from data as requested.
+Rejected ACA NEOGEO LAST RESORT from data as requested.
+Rejected Astro Duel Deluxe from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '99 from data as requested.
+Rejected Disgaea 5 Complete from data as requested.
+Rejected ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS from data as requested.
+Rejected Thumper from data as requested.
+Rejected ACA NEOGEO GAROU: MARK OF THE WOLVES from data as requested.
+Rejected Dark Witch Music Episode: Rudymical from data as requested.
+Rejected NBA Playgrounds from data as requested.
+Rejected ACA NEOGEO BLAZING STAR from data as requested.
+Rejected TumbleSeed from data as requested.
+Rejected ACA NEOGEO OVER TOP from data as requested.
+Rejected KAMIKO from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected ACA NEOGEO FATAL FURY from data as requested.
+Rejected Wonder Boy: The Dragon's Trap from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN IV from data as requested.
+Rejected Mr. Shifty from data as requested.
+Rejected The Jackbox Party Pack 3 from data as requested.
+Rejected ACA NEOGEO ALPHA MISSION II from data as requested.
+Rejected Graceful Explosion Machine from data as requested.
+Rejected Vroom in the Night Sky from data as requested.
+Rejected LEGO® CITY Undercover from data as requested.
+Rejected ACA NEOGEO METAL SLUG from data as requested.
+Rejected Snake Pass from data as requested.
+Rejected ACA NEOGEO NEO TURF MASTERS from data as requested.
+Rejected New Frontier Days ~Founding Pioneers~ from data as requested.
+Rejected Othello from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '94 from data as requested.
+Rejected Human Resource Machine from data as requested.
+Rejected Little Inferno from data as requested.
+Rejected World of Goo from data as requested.
+Rejected ACA NEOGEO METAL SLUG 3 from data as requested.
+Rejected ACA NEOGEO NAM-1975 from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '98 from data as requested.
+Rejected ACA NEOGEO WAKU WAKU 7 from data as requested.
+Rejected ACA NEOGEO WORLD HEROES PERFECT from data as requested.
+Rejected VOEZ from data as requested.
+Rejected Fast RMX from data as requested.
+Rejected I am Setsuna from data as requested.
+Rejected SKYLANDERS® IMAGINATORS from data as requested.
+---------------------------------------------------------
+August 9, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 97 games from that list.
+The resulting list of games to update is 36 games long.
+Successfully opened Nintendo's Website and found 136 links.
+Rejected Splatoon 2 from data as requested.
+Rejected ARMS from data as requested.
+Rejected Ultra Street Fighter II: The Final Challengers from data as requested.
+Rejected Minecraft: Nintendo Switch Edition - Digital Version from data as requested.
+Rejected Mario Kart 8 Deluxe from data as requested.
+Rejected Has Been Heroes from data as requested.
+Rejected The Binding of Isaac: Afterbirth+ from data as requested.
+Rejected Blaster Master Zero from data as requested.
+Rejected 1-2-Switch from data as requested.
+Rejected Just Dance 2017 from data as requested.
+Rejected Shovel Knight: Specter of Torment from data as requested.
+Rejected Shovel Knight: Treasure Trove from data as requested.
+Rejected Snipperclips - Cut it out, together! from data as requested.
+Rejected Super Bomberman R from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Master Edition from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Special Edition from data as requested.
+Rejected Sine Mora EX from data as requested.
+Rejected SteamWorld Dig 2 from data as requested.
+Rejected Severed from data as requested.
+Rejected ACA NEOGEO AERO FIGHTERS 2 from data as requested.
+Rejected GUNBARICH for Nintendo Switch from data as requested.
+Rejected Puzzle Adventure Blockle from data as requested.
+Rejected Retro City Rampage DX from data as requested.
+Rejected STRIKERS1945 for Nintendo Switch from data as requested.
+Rejected Use Your Words from data as requested.
+Rejected Infinite Minigolf from data as requested.
+Rejected NAMCO MUSEUM from data as requested.
+Rejected NAMCO MUSEUM (PAC-MAN VS. Free Multiplayer-only Ver.) from data as requested.
+Rejected Ultra Hyperball from data as requested.
+Rejected ACA NEOGEO SUPER SIDEKICKS from data as requested.
+Rejected Overcooked Special Edition from data as requested.
+Rejected Qbics Paint from data as requested.
+Rejected Fate/EXTELLA: The Umbral Star from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN from data as requested.
+Rejected BOOST BEAST from data as requested.
+Rejected ACA NEOGEO FATAL FURY SPECIAL from data as requested.
+Rejected De Mambo from data as requested.
+Rejected Death Squared from data as requested.
+Rejected I and Me from data as requested.
+Rejected Levels+ : Addictive Puzzle Game from data as requested.
+Rejected ACA NEOGEO METAL SLUG 2 from data as requested.
+Rejected Bulb Boy from data as requested.
+Rejected IMPLOSION from data as requested.
+Rejected Shephy from data as requested.
+Rejected Vaccine from data as requested.
+Rejected ACA NEOGEO MAGICAL DROP II from data as requested.
+Rejected GoNNER from data as requested.
+Rejected ACA NEOGEO FATAL FURY 2 from data as requested.
+Rejected Oceanhorn - Monster of Uncharted Seas from data as requested.
+Rejected Cave Story+ from data as requested.
+Rejected ACA NEOGEO SENGOKU from data as requested.
+Rejected MIGHTY GUNVOLT BURST from data as requested.
+Rejected Cars 3: Driven to Win from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS 2nd Squad from data as requested.
+Rejected Shantae: Half-Genie Hero from data as requested.
+Rejected Slime-san from data as requested.
+Rejected ACA NEOGEO LAST RESORT from data as requested.
+Rejected Astro Duel Deluxe from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '99 from data as requested.
+Rejected Disgaea 5 Complete from data as requested.
+Rejected ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS from data as requested.
+Rejected Thumper from data as requested.
+Rejected ACA NEOGEO GAROU: MARK OF THE WOLVES from data as requested.
+Rejected Dark Witch Music Episode: Rudymical from data as requested.
+Rejected NBA Playgrounds from data as requested.
+Rejected ACA NEOGEO BLAZING STAR from data as requested.
+Rejected TumbleSeed from data as requested.
+Rejected ACA NEOGEO OVER TOP from data as requested.
+Rejected KAMIKO from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected ACA NEOGEO FATAL FURY from data as requested.
+Rejected Wonder Boy: The Dragon's Trap from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN IV from data as requested.
+Rejected Mr. Shifty from data as requested.
+Rejected The Jackbox Party Pack 3 from data as requested.
+Rejected ACA NEOGEO ALPHA MISSION II from data as requested.
+Rejected Graceful Explosion Machine from data as requested.
+Rejected Vroom in the Night Sky from data as requested.
+Rejected LEGO® CITY Undercover from data as requested.
+Rejected ACA NEOGEO METAL SLUG from data as requested.
+Rejected Snake Pass from data as requested.
+Rejected ACA NEOGEO NEO TURF MASTERS from data as requested.
+Rejected New Frontier Days ~Founding Pioneers~ from data as requested.
+Rejected Othello from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '94 from data as requested.
+Rejected Human Resource Machine from data as requested.
+Rejected Little Inferno from data as requested.
+Rejected World of Goo from data as requested.
+Rejected ACA NEOGEO METAL SLUG 3 from data as requested.
+Rejected ACA NEOGEO NAM-1975 from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '98 from data as requested.
+Rejected ACA NEOGEO WAKU WAKU 7 from data as requested.
+Rejected ACA NEOGEO WORLD HEROES PERFECT from data as requested.
+Rejected VOEZ from data as requested.
+Rejected Fast RMX from data as requested.
+Rejected I am Setsuna from data as requested.
+Rejected SKYLANDERS® IMAGINATORS from data as requested.
+---------------------------------------------------------
+August 9, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 97 games from that list.
+The resulting list of games to update is 36 games long.
+Successfully opened Nintendo's Website and found 136 links.
+Rejected Splatoon 2 from data as requested.
+Rejected ARMS from data as requested.
+Rejected Ultra Street Fighter II: The Final Challengers from data as requested.
+Rejected Minecraft: Nintendo Switch Edition - Digital Version from data as requested.
+Rejected Mario Kart 8 Deluxe from data as requested.
+Rejected Has Been Heroes from data as requested.
+Rejected The Binding of Isaac: Afterbirth+ from data as requested.
+Rejected Blaster Master Zero from data as requested.
+Rejected 1-2-Switch from data as requested.
+Rejected Just Dance 2017 from data as requested.
+Rejected Shovel Knight: Specter of Torment from data as requested.
+Rejected Shovel Knight: Treasure Trove from data as requested.
+Rejected Snipperclips - Cut it out, together! from data as requested.
+Rejected Super Bomberman R from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Master Edition from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Special Edition from data as requested.
+Rejected Sine Mora EX from data as requested.
+Rejected SteamWorld Dig 2 from data as requested.
+Rejected Severed from data as requested.
+Rejected ACA NEOGEO AERO FIGHTERS 2 from data as requested.
+Rejected GUNBARICH for Nintendo Switch from data as requested.
+Rejected Puzzle Adventure Blockle from data as requested.
+Rejected Retro City Rampage DX from data as requested.
+Rejected STRIKERS1945 for Nintendo Switch from data as requested.
+Rejected Use Your Words from data as requested.
+Rejected Infinite Minigolf from data as requested.
+Rejected NAMCO MUSEUM from data as requested.
+Rejected NAMCO MUSEUM (PAC-MAN VS. Free Multiplayer-only Ver.) from data as requested.
+Rejected Ultra Hyperball from data as requested.
+Rejected ACA NEOGEO SUPER SIDEKICKS from data as requested.
+Rejected Overcooked Special Edition from data as requested.
+Rejected Qbics Paint from data as requested.
+Rejected Fate/EXTELLA: The Umbral Star from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN from data as requested.
+Rejected BOOST BEAST from data as requested.
+Rejected ACA NEOGEO FATAL FURY SPECIAL from data as requested.
+Rejected De Mambo from data as requested.
+Rejected Death Squared from data as requested.
+Rejected I and Me from data as requested.
+Rejected Levels+ : Addictive Puzzle Game from data as requested.
+Rejected ACA NEOGEO METAL SLUG 2 from data as requested.
+Rejected Bulb Boy from data as requested.
+Rejected IMPLOSION from data as requested.
+Rejected Shephy from data as requested.
+Rejected Vaccine from data as requested.
+Rejected ACA NEOGEO MAGICAL DROP II from data as requested.
+Rejected GoNNER from data as requested.
+Rejected ACA NEOGEO FATAL FURY 2 from data as requested.
+Rejected Oceanhorn - Monster of Uncharted Seas from data as requested.
+Rejected Cave Story+ from data as requested.
+Rejected ACA NEOGEO SENGOKU from data as requested.
+Rejected MIGHTY GUNVOLT BURST from data as requested.
+Rejected Cars 3: Driven to Win from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS 2nd Squad from data as requested.
+Rejected Shantae: Half-Genie Hero from data as requested.
+Rejected Slime-san from data as requested.
+Rejected ACA NEOGEO LAST RESORT from data as requested.
+Rejected Astro Duel Deluxe from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '99 from data as requested.
+Rejected Disgaea 5 Complete from data as requested.
+Rejected ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS from data as requested.
+Rejected Thumper from data as requested.
+Rejected ACA NEOGEO GAROU: MARK OF THE WOLVES from data as requested.
+Rejected Dark Witch Music Episode: Rudymical from data as requested.
+Rejected NBA Playgrounds from data as requested.
+Rejected ACA NEOGEO BLAZING STAR from data as requested.
+Rejected TumbleSeed from data as requested.
+Rejected ACA NEOGEO OVER TOP from data as requested.
+Rejected KAMIKO from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected ACA NEOGEO FATAL FURY from data as requested.
+Rejected Wonder Boy: The Dragon's Trap from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN IV from data as requested.
+Rejected Mr. Shifty from data as requested.
+Rejected The Jackbox Party Pack 3 from data as requested.
+Rejected ACA NEOGEO ALPHA MISSION II from data as requested.
+Rejected Graceful Explosion Machine from data as requested.
+Rejected Vroom in the Night Sky from data as requested.
+Rejected LEGO® CITY Undercover from data as requested.
+Rejected ACA NEOGEO METAL SLUG from data as requested.
+Rejected Snake Pass from data as requested.
+Rejected ACA NEOGEO NEO TURF MASTERS from data as requested.
+Rejected New Frontier Days ~Founding Pioneers~ from data as requested.
+Rejected Othello from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '94 from data as requested.
+Rejected Human Resource Machine from data as requested.
+Rejected Little Inferno from data as requested.
+Rejected World of Goo from data as requested.
+Rejected ACA NEOGEO METAL SLUG 3 from data as requested.
+Rejected ACA NEOGEO NAM-1975 from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '98 from data as requested.
+Rejected ACA NEOGEO WAKU WAKU 7 from data as requested.
+Rejected ACA NEOGEO WORLD HEROES PERFECT from data as requested.
+Rejected VOEZ from data as requested.
+Rejected Fast RMX from data as requested.
+Rejected I am Setsuna from data as requested.
+Rejected SKYLANDERS® IMAGINATORS from data as requested.
+Fire Emblem Warriors - Sorting Date changed from 01/09/2017 to 30/09/2017
+The Elder Scrolls V: Skyrim® - Sorting Date changed from 25/12/2017 to 30/12/2017
+Xenoblade Chronicles 2 - Sorting Date changed from 25/12/2017 to 30/12/2017
+---------------------------------------------------------
+August 9, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 97 games from that list.
+The resulting list of games to update is 36 games long.
+Successfully opened Nintendo's Website and found 136 links.
+Rejected Splatoon 2 from data as requested.
+Rejected ARMS from data as requested.
+Rejected Ultra Street Fighter II: The Final Challengers from data as requested.
+Rejected Minecraft: Nintendo Switch Edition - Digital Version from data as requested.
+Rejected Mario Kart 8 Deluxe from data as requested.
+Rejected Has Been Heroes from data as requested.
+Rejected The Binding of Isaac: Afterbirth+ from data as requested.
+Rejected Blaster Master Zero from data as requested.
+Rejected 1-2-Switch from data as requested.
+Rejected Just Dance 2017 from data as requested.
+Rejected Shovel Knight: Specter of Torment from data as requested.
+Rejected Shovel Knight: Treasure Trove from data as requested.
+Rejected Snipperclips - Cut it out, together! from data as requested.
+Rejected Super Bomberman R from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Master Edition from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Special Edition from data as requested.
+Rejected Sine Mora EX from data as requested.
+Rejected SteamWorld Dig 2 from data as requested.
+Rejected Severed from data as requested.
+Rejected ACA NEOGEO AERO FIGHTERS 2 from data as requested.
+Rejected GUNBARICH for Nintendo Switch from data as requested.
+Rejected Puzzle Adventure Blockle from data as requested.
+Rejected Retro City Rampage DX from data as requested.
+Rejected STRIKERS1945 for Nintendo Switch from data as requested.
+Rejected Use Your Words from data as requested.
+Rejected Infinite Minigolf from data as requested.
+Rejected NAMCO MUSEUM from data as requested.
+Rejected NAMCO MUSEUM (PAC-MAN VS. Free Multiplayer-only Ver.) from data as requested.
+Rejected Ultra Hyperball from data as requested.
+Rejected ACA NEOGEO SUPER SIDEKICKS from data as requested.
+Rejected Overcooked Special Edition from data as requested.
+Rejected Qbics Paint from data as requested.
+Rejected Fate/EXTELLA: The Umbral Star from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN from data as requested.
+Rejected BOOST BEAST from data as requested.
+Rejected ACA NEOGEO FATAL FURY SPECIAL from data as requested.
+Rejected De Mambo from data as requested.
+Rejected Death Squared from data as requested.
+Rejected I and Me from data as requested.
+Rejected Levels+ : Addictive Puzzle Game from data as requested.
+Rejected ACA NEOGEO METAL SLUG 2 from data as requested.
+Rejected Bulb Boy from data as requested.
+Rejected IMPLOSION from data as requested.
+Rejected Shephy from data as requested.
+Rejected Vaccine from data as requested.
+Rejected ACA NEOGEO MAGICAL DROP II from data as requested.
+Rejected GoNNER from data as requested.
+Rejected ACA NEOGEO FATAL FURY 2 from data as requested.
+Rejected Oceanhorn - Monster of Uncharted Seas from data as requested.
+Rejected Cave Story+ from data as requested.
+Rejected ACA NEOGEO SENGOKU from data as requested.
+Rejected MIGHTY GUNVOLT BURST from data as requested.
+Rejected Cars 3: Driven to Win from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS 2nd Squad from data as requested.
+Rejected Shantae: Half-Genie Hero from data as requested.
+Rejected Slime-san from data as requested.
+Rejected ACA NEOGEO LAST RESORT from data as requested.
+Rejected Astro Duel Deluxe from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '99 from data as requested.
+Rejected Disgaea 5 Complete from data as requested.
+Rejected ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS from data as requested.
+Rejected Thumper from data as requested.
+Rejected ACA NEOGEO GAROU: MARK OF THE WOLVES from data as requested.
+Rejected Dark Witch Music Episode: Rudymical from data as requested.
+Rejected NBA Playgrounds from data as requested.
+Rejected ACA NEOGEO BLAZING STAR from data as requested.
+Rejected TumbleSeed from data as requested.
+Rejected ACA NEOGEO OVER TOP from data as requested.
+Rejected KAMIKO from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected ACA NEOGEO FATAL FURY from data as requested.
+Rejected Wonder Boy: The Dragon's Trap from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN IV from data as requested.
+Rejected Mr. Shifty from data as requested.
+Rejected The Jackbox Party Pack 3 from data as requested.
+Rejected ACA NEOGEO ALPHA MISSION II from data as requested.
+Rejected Graceful Explosion Machine from data as requested.
+Rejected Vroom in the Night Sky from data as requested.
+Rejected LEGO® CITY Undercover from data as requested.
+Rejected ACA NEOGEO METAL SLUG from data as requested.
+Rejected Snake Pass from data as requested.
+Rejected ACA NEOGEO NEO TURF MASTERS from data as requested.
+Rejected New Frontier Days ~Founding Pioneers~ from data as requested.
+Rejected Othello from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '94 from data as requested.
+Rejected Human Resource Machine from data as requested.
+Rejected Little Inferno from data as requested.
+Rejected World of Goo from data as requested.
+Rejected ACA NEOGEO METAL SLUG 3 from data as requested.
+Rejected ACA NEOGEO NAM-1975 from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '98 from data as requested.
+Rejected ACA NEOGEO WAKU WAKU 7 from data as requested.
+Rejected ACA NEOGEO WORLD HEROES PERFECT from data as requested.
+Rejected VOEZ from data as requested.
+Rejected Fast RMX from data as requested.
+Rejected I am Setsuna from data as requested.
+Rejected SKYLANDERS® IMAGINATORS from data as requested.
+Fire Emblem Warriors - Sorting Date changed from 01/09/2017 to 30/09/2017
+The Elder Scrolls V: Skyrim® - Sorting Date changed from 25/12/2017 to 30/12/2017
+Xenoblade Chronicles 2 - Sorting Date changed from 25/12/2017 to 30/12/2017
+Rocket League® - Sorting Date changed from 25/12/2017 to 30/12/2017
+Sonic Forces - Sorting Date changed from 25/12/2017 to 30/12/2017
+Battle Chasers Nightwar - Sorting Date changed from 30/08/2017 to 31/08/2017
+Monopoly for Nintendo Switch - Sorting Date changed from 01/09/2017 to 30/09/2017
+PAYDAY 2 - Sorting Date changed from 20/12/2017 to 29/12/2017
+WWE 2K18 - Sorting Date changed from 01/09/2017 to 30/09/2017
+NBA 2K18 - Sorting Date changed from 01/09/2017 to 31/12/2017
+---------------------------------------------------------
+August 9, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 97 games from that list.
+The resulting list of games to update is 36 games long.
+Successfully opened Nintendo's Website and found 136 links.
+Rejected Splatoon 2 from data as requested.
+Rejected ARMS from data as requested.
+Rejected Ultra Street Fighter II: The Final Challengers from data as requested.
+Rejected Minecraft: Nintendo Switch Edition - Digital Version from data as requested.
+Rejected Mario Kart 8 Deluxe from data as requested.
+Rejected Has Been Heroes from data as requested.
+Rejected The Binding of Isaac: Afterbirth+ from data as requested.
+Rejected Blaster Master Zero from data as requested.
+Rejected 1-2-Switch from data as requested.
+Rejected Just Dance 2017 from data as requested.
+Rejected Shovel Knight: Specter of Torment from data as requested.
+Rejected Shovel Knight: Treasure Trove from data as requested.
+Rejected Snipperclips - Cut it out, together! from data as requested.
+Rejected Super Bomberman R from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Master Edition from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Special Edition from data as requested.
+Rejected Sine Mora EX from data as requested.
+Rejected SteamWorld Dig 2 from data as requested.
+Rejected Severed from data as requested.
+Rejected ACA NEOGEO AERO FIGHTERS 2 from data as requested.
+Rejected GUNBARICH for Nintendo Switch from data as requested.
+Rejected Puzzle Adventure Blockle from data as requested.
+Rejected Retro City Rampage DX from data as requested.
+Rejected STRIKERS1945 for Nintendo Switch from data as requested.
+Rejected Use Your Words from data as requested.
+Rejected Infinite Minigolf from data as requested.
+Rejected NAMCO MUSEUM from data as requested.
+Rejected NAMCO MUSEUM (PAC-MAN VS. Free Multiplayer-only Ver.) from data as requested.
+Rejected Ultra Hyperball from data as requested.
+Rejected ACA NEOGEO SUPER SIDEKICKS from data as requested.
+Rejected Overcooked Special Edition from data as requested.
+Rejected Qbics Paint from data as requested.
+Rejected Fate/EXTELLA: The Umbral Star from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN from data as requested.
+Rejected BOOST BEAST from data as requested.
+Rejected ACA NEOGEO FATAL FURY SPECIAL from data as requested.
+Rejected De Mambo from data as requested.
+Rejected Death Squared from data as requested.
+Rejected I and Me from data as requested.
+Rejected Levels+ : Addictive Puzzle Game from data as requested.
+Rejected ACA NEOGEO METAL SLUG 2 from data as requested.
+Rejected Bulb Boy from data as requested.
+Rejected IMPLOSION from data as requested.
+Rejected Shephy from data as requested.
+Rejected Vaccine from data as requested.
+Rejected ACA NEOGEO MAGICAL DROP II from data as requested.
+Rejected GoNNER from data as requested.
+Rejected ACA NEOGEO FATAL FURY 2 from data as requested.
+Rejected Oceanhorn - Monster of Uncharted Seas from data as requested.
+Rejected Cave Story+ from data as requested.
+Rejected ACA NEOGEO SENGOKU from data as requested.
+Rejected MIGHTY GUNVOLT BURST from data as requested.
+Rejected Cars 3: Driven to Win from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS 2nd Squad from data as requested.
+Rejected Shantae: Half-Genie Hero from data as requested.
+Rejected Slime-san from data as requested.
+Rejected ACA NEOGEO LAST RESORT from data as requested.
+Rejected Astro Duel Deluxe from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '99 from data as requested.
+Rejected Disgaea 5 Complete from data as requested.
+Rejected ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS from data as requested.
+Rejected Thumper from data as requested.
+Rejected ACA NEOGEO GAROU: MARK OF THE WOLVES from data as requested.
+Rejected Dark Witch Music Episode: Rudymical from data as requested.
+Rejected NBA Playgrounds from data as requested.
+Rejected ACA NEOGEO BLAZING STAR from data as requested.
+Rejected TumbleSeed from data as requested.
+Rejected ACA NEOGEO OVER TOP from data as requested.
+Rejected KAMIKO from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected ACA NEOGEO FATAL FURY from data as requested.
+Rejected Wonder Boy: The Dragon's Trap from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN IV from data as requested.
+Rejected Mr. Shifty from data as requested.
+Rejected The Jackbox Party Pack 3 from data as requested.
+Rejected ACA NEOGEO ALPHA MISSION II from data as requested.
+Rejected Graceful Explosion Machine from data as requested.
+Rejected Vroom in the Night Sky from data as requested.
+Rejected LEGO® CITY Undercover from data as requested.
+Rejected ACA NEOGEO METAL SLUG from data as requested.
+Rejected Snake Pass from data as requested.
+Rejected ACA NEOGEO NEO TURF MASTERS from data as requested.
+Rejected New Frontier Days ~Founding Pioneers~ from data as requested.
+Rejected Othello from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '94 from data as requested.
+Rejected Human Resource Machine from data as requested.
+Rejected Little Inferno from data as requested.
+Rejected World of Goo from data as requested.
+Rejected ACA NEOGEO METAL SLUG 3 from data as requested.
+Rejected ACA NEOGEO NAM-1975 from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '98 from data as requested.
+Rejected ACA NEOGEO WAKU WAKU 7 from data as requested.
+Rejected ACA NEOGEO WORLD HEROES PERFECT from data as requested.
+Rejected VOEZ from data as requested.
+Rejected Fast RMX from data as requested.
+Rejected I am Setsuna from data as requested.
+Rejected SKYLANDERS® IMAGINATORS from data as requested.
+Fire Emblem Warriors - Sorting Date changed from 01/09/2017 to 30/09/2017
+The Elder Scrolls V: Skyrim® - Sorting Date changed from 25/12/2017 to 30/12/2017
+Xenoblade Chronicles 2 - Sorting Date changed from 25/12/2017 to 30/12/2017
+Rocket League® - Sorting Date changed from 25/12/2017 to 30/12/2017
+Sonic Forces - Sorting Date changed from 25/12/2017 to 30/12/2017
+Battle Chasers Nightwar - Sorting Date changed from 30/08/2017 to 31/08/2017
+Monopoly for Nintendo Switch - Sorting Date changed from 01/09/2017 to 30/09/2017
+PAYDAY 2 - Sorting Date changed from 20/12/2017 to 29/12/2017
+WWE 2K18 - Sorting Date changed from 01/09/2017 to 30/09/2017
+NBA 2K18 - Sorting Date changed from 01/09/2017 to 31/12/2017
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 9, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 97 games from that list.
+The resulting list of games to update is 36 games long.
+---------------------------------------------------------
+August 10, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 100 games from that list.
+The resulting list of games to update is 33 games long.
+Successfully opened Nintendo's Website and found 136 links.
+Rejected Flip Wars from data as requested.
+Rejected Splatoon 2 from data as requested.
+Rejected ARMS from data as requested.
+Rejected Ultra Street Fighter II: The Final Challengers from data as requested.
+Rejected Minecraft: Nintendo Switch Edition - Digital Version from data as requested.
+Rejected Mario Kart 8 Deluxe from data as requested.
+Rejected Has Been Heroes from data as requested.
+Rejected The Binding of Isaac: Afterbirth+ from data as requested.
+Rejected Blaster Master Zero from data as requested.
+Rejected 1-2-Switch from data as requested.
+Rejected Just Dance 2017 from data as requested.
+Rejected Shovel Knight: Specter of Torment from data as requested.
+Rejected Shovel Knight: Treasure Trove from data as requested.
+Rejected Snipperclips - Cut it out, together! from data as requested.
+Rejected Super Bomberman R from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Master Edition from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Special Edition from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS 2000 from data as requested.
+Rejected IRONCAST from data as requested.
+Rejected Phantom Trigger from data as requested.
+Rejected Rocket Fist from data as requested.
+Rejected Severed from data as requested.
+Rejected ACA NEOGEO AERO FIGHTERS 2 from data as requested.
+Rejected GUNBARICH for Nintendo Switch from data as requested.
+Rejected Puzzle Adventure Blockle from data as requested.
+Rejected Retro City Rampage DX from data as requested.
+Rejected STRIKERS1945 for Nintendo Switch from data as requested.
+Rejected Use Your Words from data as requested.
+Rejected Infinite Minigolf from data as requested.
+Rejected NAMCO MUSEUM from data as requested.
+Rejected NAMCO MUSEUM (PAC-MAN VS. Free Multiplayer-only Ver.) from data as requested.
+Rejected Ultra Hyperball from data as requested.
+Rejected ACA NEOGEO SUPER SIDEKICKS from data as requested.
+Rejected Overcooked Special Edition from data as requested.
+Rejected Qbics Paint from data as requested.
+Rejected Fate/EXTELLA: The Umbral Star from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN from data as requested.
+Rejected BOOST BEAST from data as requested.
+Rejected ACA NEOGEO FATAL FURY SPECIAL from data as requested.
+Rejected De Mambo from data as requested.
+Rejected Death Squared from data as requested.
+Rejected I and Me from data as requested.
+Rejected Levels+ : Addictive Puzzle Game from data as requested.
+Rejected ACA NEOGEO METAL SLUG 2 from data as requested.
+Rejected Bulb Boy from data as requested.
+Rejected IMPLOSION from data as requested.
+Rejected Shephy from data as requested.
+Rejected Vaccine from data as requested.
+Rejected ACA NEOGEO MAGICAL DROP II from data as requested.
+Rejected GoNNER from data as requested.
+Rejected ACA NEOGEO FATAL FURY 2 from data as requested.
+Rejected Oceanhorn - Monster of Uncharted Seas from data as requested.
+Rejected Cave Story+ from data as requested.
+Rejected ACA NEOGEO SENGOKU from data as requested.
+Rejected MIGHTY GUNVOLT BURST from data as requested.
+Rejected Cars 3: Driven to Win from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS 2nd Squad from data as requested.
+Rejected Shantae: Half-Genie Hero from data as requested.
+Rejected Slime-san from data as requested.
+Rejected ACA NEOGEO LAST RESORT from data as requested.
+Rejected Astro Duel Deluxe from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '99 from data as requested.
+Rejected Disgaea 5 Complete from data as requested.
+Rejected ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS from data as requested.
+Rejected Thumper from data as requested.
+Rejected ACA NEOGEO GAROU: MARK OF THE WOLVES from data as requested.
+Rejected Dark Witch Music Episode: Rudymical from data as requested.
+Rejected NBA Playgrounds from data as requested.
+Rejected ACA NEOGEO BLAZING STAR from data as requested.
+Rejected TumbleSeed from data as requested.
+Rejected ACA NEOGEO OVER TOP from data as requested.
+Rejected KAMIKO from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected ACA NEOGEO FATAL FURY from data as requested.
+Rejected Wonder Boy: The Dragon's Trap from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN IV from data as requested.
+Rejected Mr. Shifty from data as requested.
+Rejected The Jackbox Party Pack 3 from data as requested.
+Rejected ACA NEOGEO ALPHA MISSION II from data as requested.
+Rejected Graceful Explosion Machine from data as requested.
+Rejected Vroom in the Night Sky from data as requested.
+Rejected LEGO® CITY Undercover from data as requested.
+Rejected ACA NEOGEO METAL SLUG from data as requested.
+Rejected Snake Pass from data as requested.
+Rejected ACA NEOGEO NEO TURF MASTERS from data as requested.
+Rejected New Frontier Days ~Founding Pioneers~ from data as requested.
+Rejected Othello from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '94 from data as requested.
+Rejected Human Resource Machine from data as requested.
+Rejected Little Inferno from data as requested.
+Rejected World of Goo from data as requested.
+Rejected ACA NEOGEO METAL SLUG 3 from data as requested.
+Rejected ACA NEOGEO NAM-1975 from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '98 from data as requested.
+Rejected ACA NEOGEO WAKU WAKU 7 from data as requested.
+Rejected ACA NEOGEO WORLD HEROES PERFECT from data as requested.
+Rejected VOEZ from data as requested.
+Rejected Fast RMX from data as requested.
+Rejected I am Setsuna from data as requested.
+Rejected SKYLANDERS® IMAGINATORS from data as requested.
+NBA 2K18 - Sorting Date changed from 30/09/2017 to 30/9/2017
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+Rejected Flip Wars from data as requested.
+Rejected Splatoon 2 from data as requested.
+Rejected ARMS from data as requested.
+Rejected Ultra Street Fighter II: The Final Challengers from data as requested.
+Rejected Minecraft: Nintendo Switch Edition - Digital Version from data as requested.
+Rejected Mario Kart 8 Deluxe from data as requested.
+Rejected Has Been Heroes from data as requested.
+Rejected The Binding of Isaac: Afterbirth+ from data as requested.
+Rejected Blaster Master Zero from data as requested.
+Rejected 1-2-Switch from data as requested.
+Rejected Just Dance 2017 from data as requested.
+Rejected Shovel Knight: Specter of Torment from data as requested.
+Rejected Shovel Knight: Treasure Trove from data as requested.
+Rejected Snipperclips - Cut it out, together! from data as requested.
+Rejected Super Bomberman R from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Master Edition from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Special Edition from data as requested.
+Rejected NBA 2K18 from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS 2000 from data as requested.
+Rejected IRONCAST from data as requested.
+Rejected Phantom Trigger from data as requested.
+Rejected Rocket Fist from data as requested.
+Rejected Severed from data as requested.
+Rejected ACA NEOGEO AERO FIGHTERS 2 from data as requested.
+Rejected GUNBARICH for Nintendo Switch from data as requested.
+Rejected Puzzle Adventure Blockle from data as requested.
+Rejected Retro City Rampage DX from data as requested.
+Rejected STRIKERS1945 for Nintendo Switch from data as requested.
+Rejected Use Your Words from data as requested.
+Rejected NAMCO MUSEUM from data as requested.
+Rejected NAMCO MUSEUM (PAC-MAN VS. Free Multiplayer-only Ver.) from data as requested.
+Rejected Ultra Hyperball from data as requested.
+Rejected ACA NEOGEO SUPER SIDEKICKS from data as requested.
+Rejected Overcooked Special Edition from data as requested.
+Rejected Qbics Paint from data as requested.
+Rejected Fate/EXTELLA: The Umbral Star from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN from data as requested.
+Rejected BOOST BEAST from data as requested.
+Rejected ACA NEOGEO FATAL FURY SPECIAL from data as requested.
+Rejected De Mambo from data as requested.
+Rejected Death Squared from data as requested.
+Rejected I and Me from data as requested.
+Rejected Levels+ : Addictive Puzzle Game from data as requested.
+Rejected ACA NEOGEO METAL SLUG 2 from data as requested.
+Rejected Bulb Boy from data as requested.
+Rejected IMPLOSION from data as requested.
+Rejected Shephy from data as requested.
+Rejected Vaccine from data as requested.
+Rejected ACA NEOGEO MAGICAL DROP II from data as requested.
+Rejected GoNNER from data as requested.
+Rejected ACA NEOGEO FATAL FURY 2 from data as requested.
+Rejected Oceanhorn - Monster of Uncharted Seas from data as requested.
+Rejected Cave Story+ from data as requested.
+Rejected ACA NEOGEO SENGOKU from data as requested.
+Rejected MIGHTY GUNVOLT BURST from data as requested.
+Rejected Cars 3: Driven to Win from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS 2nd Squad from data as requested.
+Rejected Shantae: Half-Genie Hero from data as requested.
+Rejected Slime-san from data as requested.
+Rejected ACA NEOGEO LAST RESORT from data as requested.
+Rejected Astro Duel Deluxe from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '99 from data as requested.
+Rejected Disgaea 5 Complete from data as requested.
+Rejected ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS from data as requested.
+Rejected Thumper from data as requested.
+Rejected ACA NEOGEO GAROU: MARK OF THE WOLVES from data as requested.
+Rejected Dark Witch Music Episode: Rudymical from data as requested.
+Rejected NBA Playgrounds from data as requested.
+Rejected ACA NEOGEO BLAZING STAR from data as requested.
+Rejected TumbleSeed from data as requested.
+Rejected ACA NEOGEO OVER TOP from data as requested.
+Rejected KAMIKO from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected ACA NEOGEO FATAL FURY from data as requested.
+Rejected Wonder Boy: The Dragon's Trap from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN IV from data as requested.
+Rejected Mr. Shifty from data as requested.
+Rejected The Jackbox Party Pack 3 from data as requested.
+Rejected ACA NEOGEO ALPHA MISSION II from data as requested.
+Rejected Graceful Explosion Machine from data as requested.
+Rejected Vroom in the Night Sky from data as requested.
+Rejected LEGO® CITY Undercover from data as requested.
+Rejected ACA NEOGEO METAL SLUG from data as requested.
+Rejected Snake Pass from data as requested.
+Rejected ACA NEOGEO NEO TURF MASTERS from data as requested.
+Rejected New Frontier Days ~Founding Pioneers~ from data as requested.
+Rejected Othello from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '94 from data as requested.
+Rejected Human Resource Machine from data as requested.
+Rejected Little Inferno from data as requested.
+Rejected World of Goo from data as requested.
+Rejected ACA NEOGEO METAL SLUG 3 from data as requested.
+Rejected ACA NEOGEO NAM-1975 from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '98 from data as requested.
+Rejected ACA NEOGEO WAKU WAKU 7 from data as requested.
+Rejected ACA NEOGEO WORLD HEROES PERFECT from data as requested.
+Rejected VOEZ from data as requested.
+Rejected Fast RMX from data as requested.
+Rejected I am Setsuna from data as requested.
+Rejected SKYLANDERS® IMAGINATORS from data as requested.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file ./data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+Rejected Flip Wars from data as requested.
+Rejected Splatoon 2 from data as requested.
+Rejected ARMS from data as requested.
+Rejected Ultra Street Fighter II: The Final Challengers from data as requested.
+Rejected Minecraft: Nintendo Switch Edition - Digital Version from data as requested.
+Rejected Mario Kart 8 Deluxe from data as requested.
+Rejected Has Been Heroes from data as requested.
+Rejected The Binding of Isaac: Afterbirth+ from data as requested.
+Rejected Blaster Master Zero from data as requested.
+Rejected 1-2-Switch from data as requested.
+Rejected Just Dance 2017 from data as requested.
+Rejected Shovel Knight: Specter of Torment from data as requested.
+Rejected Shovel Knight: Treasure Trove from data as requested.
+Rejected Snipperclips - Cut it out, together! from data as requested.
+Rejected Super Bomberman R from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Master Edition from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Special Edition from data as requested.
+Rejected NBA 2K18 from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS 2000 from data as requested.
+Rejected IRONCAST from data as requested.
+Rejected Phantom Trigger from data as requested.
+Rejected Rocket Fist from data as requested.
+Rejected Severed from data as requested.
+Rejected ACA NEOGEO AERO FIGHTERS 2 from data as requested.
+Rejected GUNBARICH for Nintendo Switch from data as requested.
+Rejected Puzzle Adventure Blockle from data as requested.
+Rejected Retro City Rampage DX from data as requested.
+Rejected STRIKERS1945 for Nintendo Switch from data as requested.
+Rejected Use Your Words from data as requested.
+Rejected NAMCO MUSEUM from data as requested.
+Rejected NAMCO MUSEUM (PAC-MAN VS. Free Multiplayer-only Ver.) from data as requested.
+Rejected Ultra Hyperball from data as requested.
+Rejected ACA NEOGEO SUPER SIDEKICKS from data as requested.
+Rejected Overcooked Special Edition from data as requested.
+Rejected Qbics Paint from data as requested.
+Rejected Fate/EXTELLA: The Umbral Star from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN from data as requested.
+Rejected BOOST BEAST from data as requested.
+Rejected ACA NEOGEO FATAL FURY SPECIAL from data as requested.
+Rejected De Mambo from data as requested.
+Rejected Death Squared from data as requested.
+Rejected I and Me from data as requested.
+Rejected Levels+ : Addictive Puzzle Game from data as requested.
+Rejected ACA NEOGEO METAL SLUG 2 from data as requested.
+Rejected Bulb Boy from data as requested.
+Rejected IMPLOSION from data as requested.
+Rejected Shephy from data as requested.
+Rejected Vaccine from data as requested.
+Rejected ACA NEOGEO MAGICAL DROP II from data as requested.
+Rejected GoNNER from data as requested.
+Rejected ACA NEOGEO FATAL FURY 2 from data as requested.
+Rejected Oceanhorn - Monster of Uncharted Seas from data as requested.
+Rejected Cave Story+ from data as requested.
+Rejected ACA NEOGEO SENGOKU from data as requested.
+Rejected MIGHTY GUNVOLT BURST from data as requested.
+Rejected Cars 3: Driven to Win from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS 2nd Squad from data as requested.
+Rejected Shantae: Half-Genie Hero from data as requested.
+Rejected Slime-san from data as requested.
+Rejected ACA NEOGEO LAST RESORT from data as requested.
+Rejected Astro Duel Deluxe from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '99 from data as requested.
+Rejected Disgaea 5 Complete from data as requested.
+Rejected ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS from data as requested.
+Rejected Thumper from data as requested.
+Rejected ACA NEOGEO GAROU: MARK OF THE WOLVES from data as requested.
+Rejected Dark Witch Music Episode: Rudymical from data as requested.
+Rejected NBA Playgrounds from data as requested.
+Rejected ACA NEOGEO BLAZING STAR from data as requested.
+Rejected TumbleSeed from data as requested.
+Rejected ACA NEOGEO OVER TOP from data as requested.
+Rejected KAMIKO from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected ACA NEOGEO FATAL FURY from data as requested.
+Rejected Wonder Boy: The Dragon's Trap from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN IV from data as requested.
+Rejected Mr. Shifty from data as requested.
+Rejected The Jackbox Party Pack 3 from data as requested.
+Rejected ACA NEOGEO ALPHA MISSION II from data as requested.
+Rejected Graceful Explosion Machine from data as requested.
+Rejected Vroom in the Night Sky from data as requested.
+Rejected LEGO® CITY Undercover from data as requested.
+Rejected ACA NEOGEO METAL SLUG from data as requested.
+Rejected Snake Pass from data as requested.
+Rejected ACA NEOGEO NEO TURF MASTERS from data as requested.
+Rejected New Frontier Days ~Founding Pioneers~ from data as requested.
+Rejected Othello from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '94 from data as requested.
+Rejected Human Resource Machine from data as requested.
+Rejected Little Inferno from data as requested.
+Rejected World of Goo from data as requested.
+Rejected ACA NEOGEO METAL SLUG 3 from data as requested.
+Rejected ACA NEOGEO NAM-1975 from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '98 from data as requested.
+Rejected ACA NEOGEO WAKU WAKU 7 from data as requested.
+Rejected ACA NEOGEO WORLD HEROES PERFECT from data as requested.
+Rejected VOEZ from data as requested.
+Rejected Fast RMX from data as requested.
+Rejected I am Setsuna from data as requested.
+Rejected SKYLANDERS® IMAGINATORS from data as requested.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+Rejected Flip Wars from data as requested.
+Rejected Splatoon 2 from data as requested.
+Rejected ARMS from data as requested.
+Rejected Ultra Street Fighter II: The Final Challengers from data as requested.
+Rejected Minecraft: Nintendo Switch Edition - Digital Version from data as requested.
+Rejected Mario Kart 8 Deluxe from data as requested.
+Rejected Has Been Heroes from data as requested.
+Rejected The Binding of Isaac: Afterbirth+ from data as requested.
+Rejected Blaster Master Zero from data as requested.
+Rejected 1-2-Switch from data as requested.
+Rejected Just Dance 2017 from data as requested.
+Rejected Shovel Knight: Specter of Torment from data as requested.
+Rejected Shovel Knight: Treasure Trove from data as requested.
+Rejected Snipperclips - Cut it out, together! from data as requested.
+Rejected Super Bomberman R from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Master Edition from data as requested.
+Rejected The Legend of Zelda: Breath of the Wild - Special Edition from data as requested.
+Rejected NBA 2K18 from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS 2000 from data as requested.
+Rejected IRONCAST from data as requested.
+Rejected Phantom Trigger from data as requested.
+Rejected Rocket Fist from data as requested.
+Rejected Severed from data as requested.
+Rejected ACA NEOGEO AERO FIGHTERS 2 from data as requested.
+Rejected GUNBARICH for Nintendo Switch from data as requested.
+Rejected Puzzle Adventure Blockle from data as requested.
+Rejected Retro City Rampage DX from data as requested.
+Rejected STRIKERS1945 for Nintendo Switch from data as requested.
+Rejected Use Your Words from data as requested.
+Rejected NAMCO MUSEUM from data as requested.
+Rejected NAMCO MUSEUM (PAC-MAN VS. Free Multiplayer-only Ver.) from data as requested.
+Rejected Ultra Hyperball from data as requested.
+Rejected ACA NEOGEO SUPER SIDEKICKS from data as requested.
+Rejected Overcooked Special Edition from data as requested.
+Rejected Qbics Paint from data as requested.
+Rejected Fate/EXTELLA: The Umbral Star from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN from data as requested.
+Rejected BOOST BEAST from data as requested.
+Rejected ACA NEOGEO FATAL FURY SPECIAL from data as requested.
+Rejected De Mambo from data as requested.
+Rejected Death Squared from data as requested.
+Rejected I and Me from data as requested.
+Rejected Levels+ : Addictive Puzzle Game from data as requested.
+Rejected ACA NEOGEO METAL SLUG 2 from data as requested.
+Rejected Bulb Boy from data as requested.
+Rejected IMPLOSION from data as requested.
+Rejected Shephy from data as requested.
+Rejected Vaccine from data as requested.
+Rejected ACA NEOGEO MAGICAL DROP II from data as requested.
+Rejected GoNNER from data as requested.
+Rejected ACA NEOGEO FATAL FURY 2 from data as requested.
+Rejected Oceanhorn - Monster of Uncharted Seas from data as requested.
+Rejected Cave Story+ from data as requested.
+Rejected ACA NEOGEO SENGOKU from data as requested.
+Rejected MIGHTY GUNVOLT BURST from data as requested.
+Rejected Cars 3: Driven to Win from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS 2nd Squad from data as requested.
+Rejected Shantae: Half-Genie Hero from data as requested.
+Rejected Slime-san from data as requested.
+Rejected ACA NEOGEO LAST RESORT from data as requested.
+Rejected Astro Duel Deluxe from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '99 from data as requested.
+Rejected Disgaea 5 Complete from data as requested.
+Rejected ACA NEOGEO GALAXY FIGHT: UNIVERSAL WARRIORS from data as requested.
+Rejected Thumper from data as requested.
+Rejected ACA NEOGEO GAROU: MARK OF THE WOLVES from data as requested.
+Rejected Dark Witch Music Episode: Rudymical from data as requested.
+Rejected NBA Playgrounds from data as requested.
+Rejected ACA NEOGEO BLAZING STAR from data as requested.
+Rejected TumbleSeed from data as requested.
+Rejected ACA NEOGEO OVER TOP from data as requested.
+Rejected KAMIKO from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected Puyo Puyo Tetris from data as requested.
+Rejected ACA NEOGEO FATAL FURY from data as requested.
+Rejected Wonder Boy: The Dragon's Trap from data as requested.
+Rejected ACA NEOGEO SAMURAI SHODOWN IV from data as requested.
+Rejected Mr. Shifty from data as requested.
+Rejected The Jackbox Party Pack 3 from data as requested.
+Rejected ACA NEOGEO ALPHA MISSION II from data as requested.
+Rejected Graceful Explosion Machine from data as requested.
+Rejected Vroom in the Night Sky from data as requested.
+Rejected LEGO® CITY Undercover from data as requested.
+Rejected ACA NEOGEO METAL SLUG from data as requested.
+Rejected Snake Pass from data as requested.
+Rejected ACA NEOGEO NEO TURF MASTERS from data as requested.
+Rejected New Frontier Days ~Founding Pioneers~ from data as requested.
+Rejected Othello from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '94 from data as requested.
+Rejected Human Resource Machine from data as requested.
+Rejected Little Inferno from data as requested.
+Rejected World of Goo from data as requested.
+Rejected ACA NEOGEO METAL SLUG 3 from data as requested.
+Rejected ACA NEOGEO NAM-1975 from data as requested.
+Rejected ACA NEOGEO SHOCK TROOPERS from data as requested.
+Rejected ACA NEOGEO THE KING OF FIGHTERS '98 from data as requested.
+Rejected ACA NEOGEO WAKU WAKU 7 from data as requested.
+Rejected ACA NEOGEO WORLD HEROES PERFECT from data as requested.
+Rejected VOEZ from data as requested.
+Rejected Fast RMX from data as requested.
+Rejected I am Setsuna from data as requested.
+Rejected SKYLANDERS® IMAGINATORS from data as requested.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Got to handle page function!
+Successfully opened Nintendo's Website and found 135 links.
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+Got to handle page function!
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+---------------------------------------------------------
+August 11, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 12, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 13, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 101 games from that list.
+The resulting list of games to update is 32 games long.
+Successfully opened Nintendo's Website and found 135 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 14, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 100 games from that list.
+The resulting list of games to update is 33 games long.
+Successfully opened Nintendo's Website and found 135 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 15, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 102 games from that list.
+The resulting list of games to update is 31 games long.
+Successfully opened Nintendo's Website and found 135 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 16, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 102 games from that list.
+The resulting list of games to update is 31 games long.
+Successfully opened Nintendo's Website and found 135 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 17, 2017
+Succesfully opened 133 games from the file data.json.
+Removed 102 games from that list.
+The resulting list of games to update is 31 games long.
+Successfully opened Nintendo's Website and found 139 links.
+Got all data for new game ACA NEOGEO MAGICIAN LORD
+Got all data for new game Sky Ride
+Got all data for new game The Jackbox Party Pack
+Got all data for new game The Jackbox Party Pack 2
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 18, 2017
+Succesfully opened 137 games from the file data.json.
+Removed 106 games from that list.
+The resulting list of games to update is 31 games long.
+Successfully opened Nintendo's Website and found 139 links.
+Minecraft: Story Mode - The Complete Adventure - Sorting Date changed from 01/01/2030 to 22/08/2017
+Physical Contact: SPEED - Sorting Date changed from 01/01/2030 to 27/07/2017
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 19, 2017
+Succesfully opened 137 games from the file data.json.
+Removed 107 games from that list.
+The resulting list of games to update is 30 games long.
+Successfully opened Nintendo's Website and found 139 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 20, 2017
+Succesfully opened 137 games from the file data.json.
+Removed 107 games from that list.
+The resulting list of games to update is 30 games long.
+Successfully opened Nintendo's Website and found 139 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 21, 2017
+Succesfully opened 137 games from the file data.json.
+Removed 107 games from that list.
+The resulting list of games to update is 30 games long.
+Successfully opened Nintendo's Website and found 139 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 22, 2017
+Succesfully opened 137 games from the file data.json.
+Removed 108 games from that list.
+The resulting list of games to update is 29 games long.
+Successfully opened Nintendo's Website and found 140 links.
+Got all data for new game Piczle Lines DX
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 23, 2017
+Succesfully opened 138 games from the file data.json.
+Removed 108 games from that list.
+The resulting list of games to update is 30 games long.
+Successfully opened Nintendo's Website and found 143 links.
+Got all data for new game R.B.I. Baseball 17
+Got all data for new game League of Evil
+Got all data for new game forma.8
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 24, 2017
+Succesfully opened 141 games from the file data.json.
+Removed 110 games from that list.
+The resulting list of games to update is 31 games long.
+Successfully opened Nintendo's Website and found 144 links.
+Got all data for new game ACA NEOGEO PUZZLED
+Sine Mora EX - Sorting Date changed from 30/08/2017 to 08/08/2017
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 25, 2017
+Succesfully opened 142 games from the file data.json.
+Removed 112 games from that list.
+The resulting list of games to update is 30 games long.
+Successfully opened Nintendo's Website and found 152 links.
+Got all data for new game AWAY: Journey to the Unexpected
+Got all data for new game Fe
+Got all data for new game Monster Boy and the Cursed Kingdom
+Got all data for new game Yoku's Island Express
+Got all data for new game Unbox: Newbie's Adventure
+Got all data for new game Nine Parchments
+Got all data for new game The Bridge
+Got all data for new game Azure Striker GUNVOLT: STRIKER PACK
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 26, 2017
+Succesfully opened 150 games from the file data.json.
+Removed 112 games from that list.
+The resulting list of games to update is 38 games long.
+Successfully opened Nintendo's Website and found 155 links.
+Got all data for new game ONE PIECE: Unlimited World Red Deluxe Edition
+Got all data for new game Soldam: Drop, Connect, Erase
+Got all data for new game LEGO Worlds
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 27, 2017
+Succesfully opened 153 games from the file data.json.
+Removed 112 games from that list.
+The resulting list of games to update is 41 games long.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 28, 2017
+Succesfully opened 153 games from the file data.json.
+Removed 112 games from that list.
+The resulting list of games to update is 41 games long.
+Successfully opened Nintendo's Website and found 155 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 29, 2017
+Succesfully opened 153 games from the file data.json.
+Removed 113 games from that list.
+The resulting list of games to update is 40 games long.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 30, 2017
+Succesfully opened 153 games from the file data.json.
+Removed 114 games from that list.
+The resulting list of games to update is 39 games long.
+Successfully opened Nintendo's Website and found 156 links.
+Fire Emblem Warriors - Sorting Date changed from 31/10/2017 to 20/10/2017
+Got all data for new game Fire Emblem Warriors Special Edition
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+August 31, 2017
+Succesfully opened 154 games from the file data.json.
+Removed 117 games from that list.
+The resulting list of games to update is 37 games long.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 1, 2017
+Succesfully opened 154 games from the file data.json.
+Removed 117 games from that list.
+The resulting list of games to update is 37 games long.
+Successfully opened Nintendo's Website and found 179 links.
+---------------------------------------------------------
+September 2, 2017
+Succesfully opened 154 games from the file data.json.
+Removed 117 games from that list.
+The resulting list of games to update is 37 games long.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 2, 2017
+Succesfully opened 154 games from the file data.json.
+Removed 117 games from that list.
+The resulting list of games to update is 37 games long.
+Successfully opened Nintendo's Website and found 182 links.
+Wargroove - Sorting Date changed from 01/01/2030 to 31/12/2018
+Got all data for new game Huntdown
+Got all data for new game Mulaka
+Got all data for new game Super Meat Boy Forever
+Got all data for new game Kentucky Route Zero: TV Edition
+Got all data for new game Light Fingers
+Got all data for new game Next Up Hero
+Got all data for new game Runner3
+Got all data for new game Shovel Knight: King of Cards
+Got all data for new game Battle Chef Brigade
+Got all data for new game Dandara
+Got all data for new game Dragon Marked For Death
+Got all data for new game Floor Kids
+Got all data for new game Mom Hid My Game!
+Got all data for new game Poly Bridge
+Got all data for new game Sausage Sports Club
+Got all data for new game Earth Atlantis
+Got all data for new game Axiom Verge
+Got all data for new game Yono and the Celestial Elephants
+Got all data for new game Golf Story
+NBA 2K18 - Sorting Date changed from 30/09/2017 to 15/09/2017
+Got all data for new game Kingdom: New Lands
+Got all data for new game Semispheres
+Got all data for new game Double Dragon 4
+Got all data for new game Lichtspeer: Double Speer Edition
+Got all data for new game NeuroVoider
+Got all data for new game ACA NEOGEO ZED BLADE
+All Data Finished Parsing
+Uh oh! There were only 62 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 2, 2017
+Succesfully opened 154 games from the file data.json.
+Removed 117 games from that list.
+The resulting list of games to update is 37 games long.
+Successfully opened Nintendo's Website and found 182 links.
+Wargroove - Sorting Date changed from 01/01/2030 to 31/12/2018
+Got all data for new game Huntdown
+Got all data for new game Mulaka
+Got all data for new game Super Meat Boy Forever
+Got all data for new game Kentucky Route Zero: TV Edition
+Got all data for new game Light Fingers
+Got all data for new game Next Up Hero
+Got all data for new game Runner3
+Got all data for new game Shovel Knight: King of Cards
+Got all data for new game Battle Chef Brigade
+Got all data for new game Dandara
+Got all data for new game Dragon Marked For Death
+Got all data for new game Floor Kids
+Got all data for new game Mom Hid My Game!
+Got all data for new game Poly Bridge
+Got all data for new game Sausage Sports Club
+Got all data for new game Earth Atlantis
+Got all data for new game Axiom Verge
+Got all data for new game Yono and the Celestial Elephants
+Got all data for new game Golf Story
+Got all data for new game Wulverblade
+NBA 2K18 - Sorting Date changed from 30/09/2017 to 15/09/2017
+Got all data for new game Kingdom: New Lands
+Got all data for new game Semispheres
+Got all data for new game Double Dragon 4
+Got all data for new game Lichtspeer: Double Speer Edition
+Got all data for new game NeuroVoider
+Got all data for new game ACA NEOGEO ZED BLADE
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 3, 2017
+Succesfully opened 180 games from the file data.json.
+Removed 118 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 182 links.
+---------------------------------------------------------
+September 4, 2017
+Succesfully opened 180 games from the file data.json.
+Removed 118 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 182 links.
+---------------------------------------------------------
+September 5, 2017
+Succesfully opened 180 games from the file data.json.
+Removed 120 games from that list.
+The resulting list of games to update is 60 games long.
+Successfully opened Nintendo's Website and found 182 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 6, 2017
+Succesfully opened 180 games from the file data.json.
+Removed 120 games from that list.
+The resulting list of games to update is 60 games long.
+Successfully opened Nintendo's Website and found 182 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 7, 2017
+Succesfully opened 180 games from the file data.json.
+Removed 124 games from that list.
+The resulting list of games to update is 56 games long.
+Successfully opened Nintendo's Website and found 183 links.
+CELESTE - Sorting Date changed from 31/12/2017 to 31/12/2018
+Flipping Death - Sorting Date changed from 01/01/2030 to 31/12/2018
+Pocket Rumble - Sorting Date changed from 01/01/2030 to 31/12/2017
+RIME - Sorting Date changed from 31/12/2017 to 31/10/2017
+Got all data for new game ACA NEOGEO BLUE'S JOURNEY
+Got all data for new game Physical Contact: 2048
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 8, 2017
+Succesfully opened 182 games from the file data.json.
+Removed 126 games from that list.
+The resulting list of games to update is 56 games long.
+Successfully opened Nintendo's Website and found 184 links.
+---------------------------------------------------------
+September 9, 2017
+Succesfully opened 182 games from the file data.json.
+Removed 126 games from that list.
+The resulting list of games to update is 56 games long.
+Successfully opened Nintendo's Website and found 186 links.
+Got all data for new game L.A. Noire
+Got all data for new game Beach Buggy Racing
+Got all data for new game PAN-PAN A tiny big adventure
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 10, 2017
+Succesfully opened 185 games from the file data.json.
+Removed 126 games from that list.
+The resulting list of games to update is 59 games long.
+Successfully opened Nintendo's Website and found 186 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 11, 2017
+Succesfully opened 185 games from the file data.json.
+Removed 126 games from that list.
+The resulting list of games to update is 59 games long.
+Successfully opened Nintendo's Website and found 186 links.
+---------------------------------------------------------
+September 12, 2017
+Succesfully opened 185 games from the file data.json.
+Removed 127 games from that list.
+The resulting list of games to update is 58 games long.
+Successfully opened Nintendo's Website and found 188 links.
+Got all data for new game Robonauts
+Got all data for new game 36 Fragments of Midnight
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 13, 2017
+Succesfully opened 187 games from the file data.json.
+Removed 127 games from that list.
+The resulting list of games to update is 60 games long.
+Successfully opened Nintendo's Website and found 190 links.
+Got all data for new game NBA 2K18 Legend Edition
+Got all data for new game NBA 2K18 Legend Edition Gold
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 14, 2017
+Succesfully opened 189 games from the file data.json.
+Removed 132 games from that list.
+The resulting list of games to update is 57 games long.
+Successfully opened Nintendo's Website and found 198 links.
+Kirby Star Allies - Sorting Date changed from 31/12/2018 to 31/03/2018
+Xenoblade Chronicles 2 - Sorting Date changed from 30/12/2017 to 01/12/2017
+Got all data for new game Xenoblade Chronicles 2 Special Edition
+The Elder Scrolls V: Skyrim® - Sorting Date changed from 30/12/2017 to 17/11/2017
+Got all data for new game Snipperclips Plus - Cut it out, together!
+Got all data for new game Snipperclips Plus - Cut it out, together! (Digital Version)
+Got all data for new game Project Octopath Traveler
+Got all data for new game Wolfenstein II: The New Colossus
+Got all data for new game Dragon Quest Builders
+Got all data for new game DOOM
+---------------------------------------------------------
+September 14, 2017
+Succesfully opened 189 games from the file data.json.
+Removed 132 games from that list.
+The resulting list of games to update is 57 games long.
+Successfully opened Nintendo's Website and found 198 links.
+Kirby Star Allies - Sorting Date changed from 31/12/2018 to 31/03/2018
+Xenoblade Chronicles 2 - Sorting Date changed from 30/12/2017 to 01/12/2017
+Got all data for new game Xenoblade Chronicles 2 Special Edition
+The Elder Scrolls V: Skyrim® - Sorting Date changed from 30/12/2017 to 17/11/2017
+Got all data for new game Snipperclips Plus - Cut it out, together!
+Got all data for new game Snipperclips Plus - Cut it out, together! (Digital Version)
+Got all data for new game Project Octopath Traveler
+Got all data for new game Wolfenstein II: The New Colossus
+Got all data for new game Dragon Quest Builders
+Got all data for new game DOOM
+Got all data for new game ACA NEOGEO SPIN MASTER
+Got all data for new game Quest of Dungeons
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 15, 2017
+Succesfully opened 198 games from the file data.json.
+Removed 138 games from that list.
+The resulting list of games to update is 60 games long.
+Successfully opened Nintendo's Website and found 199 links.
+Got all data for new game DRAGON BALL Xenoverse 2 for Nintendo Switch
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 16, 2017
+Succesfully opened 199 games from the file data.json.
+Removed 138 games from that list.
+The resulting list of games to update is 61 games long.
+Successfully opened Nintendo's Website and found 199 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 17, 2017
+Succesfully opened 199 games from the file data.json.
+Removed 138 games from that list.
+The resulting list of games to update is 61 games long.
+Successfully opened Nintendo's Website and found 199 links.
+---------------------------------------------------------
+September 18, 2017
+Succesfully opened 199 games from the file data.json.
+Removed 138 games from that list.
+The resulting list of games to update is 61 games long.
+Successfully opened Nintendo's Website and found 199 links.
+---------------------------------------------------------
+September 19, 2017
+Succesfully opened 199 games from the file data.json.
+Removed 138 games from that list.
+The resulting list of games to update is 61 games long.
+Successfully opened Nintendo's Website and found 203 links.
+Got all data for new game Conga Master Party!
+Got all data for new game LEGO® NINJAGO® Movie Video Game
+Got all data for new game Thimbleweed Park
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 20, 2017
+Succesfully opened 202 games from the file data.json.
+Removed 137 games from that list.
+The resulting list of games to update is 65 games long.
+Successfully opened Nintendo's Website and found 204 links.
+Got all data for new game Tiny Barbarian DX
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 21, 2017
+Succesfully opened 203 games from the file data.json.
+Removed 139 games from that list.
+The resulting list of games to update is 64 games long.
+Successfully opened Nintendo's Website and found 207 links.
+Got all data for new game Arcade Archives Mario Bros.
+Got all data for new game ACA NEOGEO ART OF FIGHTING
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 22, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 207 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+Fire Emblem Warriors - Sorting Date changed from 20/10/2017 to 27/10/2017
+Fire Emblem Warriors Special Edition - Sorting Date changed from 20/10/2017 to 27/10/2017
+FIFA 18 - Sorting Date changed from 29/09/2017 to 27/10/2017
+Wargroove - Sorting Date changed from 31/12/2018 to 27/10/2017
+AWAY: Journey to the Unexpected - Sorting Date changed from 31/12/2018 to 27/10/2017
+CELESTE - Sorting Date changed from 31/12/2018 to 27/10/2017
+Fe - Sorting Date changed from 31/12/2018 to 27/10/2017
+Flipping Death - Sorting Date changed from 31/12/2018 to 27/10/2017
+Huntdown - Sorting Date changed from 01/01/2030 to 27/10/2017
+Monster Boy and the Cursed Kingdom - Sorting Date changed from 31/12/2018 to 27/10/2017
+Mulaka - Sorting Date changed from 31/12/2018 to 27/10/2017
+project OCTOPATH TRAVELER (working title) - Sorting Date changed from 31/12/2018 to 27/10/2017
+Rocket League® - Sorting Date changed from 30/12/2017 to 27/10/2017
+Sonic Forces - Sorting Date changed from 30/12/2017 to 27/10/2017
+Super Meat Boy Forever - Sorting Date changed from 31/12/2018 to 27/10/2017
+Syberia 3 - Sorting Date changed from 01/01/2030 to 27/10/2017
+Wolfenstein II: The New Colossus - Sorting Date changed from 31/12/2018 to 27/10/2017
+Yoku's Island Express - Sorting Date changed from 31/12/2018 to 27/10/2017
+Steep - Sorting Date changed from 01/01/2030 to 27/10/2017
+Dragon Quest Builders - Sorting Date changed from 31/03/2018 to 27/10/2017
+Kentucky Route Zero: TV Edition - Sorting Date changed from 31/12/2018 to 27/10/2017
+Light Fingers - Sorting Date changed from 31/12/2018 to 27/10/2017
+Next Up Hero - Sorting Date changed from 31/12/2018 to 27/10/2017
+Runner3 - Sorting Date changed from 31/12/2018 to 27/10/2017
+Shovel Knight: King of Cards - Sorting Date changed from 31/12/2018 to 27/10/2017
+LOST SPHEAR - Sorting Date changed from 23/01/2018 to 27/10/2017
+Battle Chasers Nightwar - Sorting Date changed from 31/10/2017 to 27/10/2017
+Battle Chef Brigade - Sorting Date changed from 30/12/2017 to 27/10/2017
+Dandara - Sorting Date changed from 31/12/2017 to 27/10/2017
+DOOM - Sorting Date changed from 30/12/2017 to 27/10/2017
+Dragon Marked For Death - Sorting Date changed from 29/12/2017 to 27/10/2017
+Floor Kids - Sorting Date changed from 30/12/2017 to 27/10/2017
+Mom Hid My Game! - Sorting Date changed from 31/12/2017 to 27/10/2017
+Monopoly for Nintendo Switch - Sorting Date changed from 31/10/2017 to 27/10/2017
+Nine Parchments - Sorting Date changed from 30/12/2017 to 27/10/2017
+PAYDAY 2 - Sorting Date changed from 29/12/2017 to 27/10/2017
+Pocket Rumble - Sorting Date changed from 31/12/2017 to 27/10/2017
+Poly Bridge - Sorting Date changed from 30/12/2017 to 27/10/2017
+RIME - Sorting Date changed from 31/10/2017 to 27/10/2017
+Sausage Sports Club - Sorting Date changed from 31/10/2017 to 27/10/2017
+Stardew Valley - Sorting Date changed from 31/12/2017 to 27/10/2017
+WWE 2K18 - Sorting Date changed from 31/10/2017 to 27/10/2017
+Unbox: Newbie's Adventure - Sorting Date changed from 31/12/2017 to 27/10/2017
+Earth Atlantis - Sorting Date changed from 31/10/2017 to 27/10/2017
+L.A. Noire - Sorting Date changed from 14/11/2017 to 27/10/2017
+Yono and the Celestial Elephants - Sorting Date changed from 12/10/2017 to 27/10/2017
+Tiny Barbarian DX - Sorting Date changed from 10/10/2017 to 27/10/2017
+Axiom Verge - Sorting Date changed from 17/10/2017 to 27/10/2017
+Got all data for new game Tumblestone
+Golf Story - Sorting Date changed from 31/12/2017 to 27/10/2017
+Wulverblade - Sorting Date changed from 31/12/2017 to 27/10/2017
+ONE PIECE: Unlimited World Red Deluxe Edition - Sorting Date changed from 29/09/2017 to 27/10/2017
+Got all data for new game Astro Bears Party
+Conga Master Party! - Sorting Date changed from 28/09/2017 to 27/10/2017
+Arcade Archives Mario Bros. - Sorting Date changed from 27/09/2017 to 27/10/2017
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+Super Mario Odyssey - Sorting Date changed from 27/10/2017 to 10/11/2017
+Fire Emblem Warriors - Sorting Date changed from 20/10/2017 to 10/11/2017
+Fire Emblem Warriors Special Edition - Sorting Date changed from 20/10/2017 to 10/11/2017
+FIFA 18 - Sorting Date changed from 29/09/2017 to 10/11/2017
+Wargroove - Sorting Date changed from 31/12/2018 to 10/11/2017
+AWAY: Journey to the Unexpected - Sorting Date changed from 31/12/2018 to 10/11/2017
+CELESTE - Sorting Date changed from 31/12/2018 to 10/11/2017
+Fe - Sorting Date changed from 31/12/2018 to 10/11/2017
+Flipping Death - Sorting Date changed from 31/12/2018 to 10/11/2017
+Huntdown - Sorting Date changed from 01/01/2030 to 10/11/2017
+Monster Boy and the Cursed Kingdom - Sorting Date changed from 31/12/2018 to 10/11/2017
+Mulaka - Sorting Date changed from 31/12/2018 to 10/11/2017
+project OCTOPATH TRAVELER (working title) - Sorting Date changed from 31/12/2018 to 10/11/2017
+Rocket League® - Sorting Date changed from 30/12/2017 to 10/11/2017
+Sonic Forces - Sorting Date changed from 30/12/2017 to 10/11/2017
+Super Meat Boy Forever - Sorting Date changed from 31/12/2018 to 10/11/2017
+Syberia 3 - Sorting Date changed from 01/01/2030 to 10/11/2017
+Wolfenstein II: The New Colossus - Sorting Date changed from 31/12/2018 to 10/11/2017
+Yoku's Island Express - Sorting Date changed from 31/12/2018 to 10/11/2017
+Steep - Sorting Date changed from 01/01/2030 to 10/11/2017
+Dragon Quest Builders - Sorting Date changed from 31/03/2018 to 10/11/2017
+Kentucky Route Zero: TV Edition - Sorting Date changed from 31/12/2018 to 10/11/2017
+Light Fingers - Sorting Date changed from 31/12/2018 to 10/11/2017
+Next Up Hero - Sorting Date changed from 31/12/2018 to 10/11/2017
+Runner3 - Sorting Date changed from 31/12/2018 to 10/11/2017
+Shovel Knight: King of Cards - Sorting Date changed from 31/12/2018 to 10/11/2017
+LOST SPHEAR - Sorting Date changed from 23/01/2018 to 10/11/2017
+Battle Chasers Nightwar - Sorting Date changed from 31/10/2017 to 10/11/2017
+Battle Chef Brigade - Sorting Date changed from 30/12/2017 to 10/11/2017
+Dandara - Sorting Date changed from 31/12/2017 to 10/11/2017
+DOOM - Sorting Date changed from 30/12/2017 to 10/11/2017
+Dragon Marked For Death - Sorting Date changed from 29/12/2017 to 10/11/2017
+Floor Kids - Sorting Date changed from 30/12/2017 to 10/11/2017
+Mom Hid My Game! - Sorting Date changed from 31/12/2017 to 10/11/2017
+Monopoly for Nintendo Switch - Sorting Date changed from 31/10/2017 to 10/11/2017
+Nine Parchments - Sorting Date changed from 30/12/2017 to 10/11/2017
+PAYDAY 2 - Sorting Date changed from 29/12/2017 to 10/11/2017
+Pocket Rumble - Sorting Date changed from 31/12/2017 to 10/11/2017
+Poly Bridge - Sorting Date changed from 30/12/2017 to 10/11/2017
+RIME - Sorting Date changed from 31/10/2017 to 10/11/2017
+Sausage Sports Club - Sorting Date changed from 31/10/2017 to 10/11/2017
+Stardew Valley - Sorting Date changed from 31/12/2017 to 10/11/2017
+WWE 2K18 - Sorting Date changed from 31/10/2017 to 10/11/2017
+Unbox: Newbie's Adventure - Sorting Date changed from 31/12/2017 to 10/11/2017
+Earth Atlantis - Sorting Date changed from 31/10/2017 to 10/11/2017
+L.A. Noire - Sorting Date changed from 14/11/2017 to 10/11/2017
+Yono and the Celestial Elephants - Sorting Date changed from 12/10/2017 to 10/11/2017
+Tiny Barbarian DX - Sorting Date changed from 10/10/2017 to 10/11/2017
+Axiom Verge - Sorting Date changed from 17/10/2017 to 10/11/2017
+Got all data for new game Tumblestone
+Golf Story - Sorting Date changed from 31/12/2017 to 10/11/2017
+Wulverblade - Sorting Date changed from 31/12/2017 to 10/11/2017
+ONE PIECE: Unlimited World Red Deluxe Edition - Sorting Date changed from 29/09/2017 to 10/11/2017
+Got all data for new game Astro Bears Party
+Conga Master Party! - Sorting Date changed from 28/09/2017 to 10/11/2017
+Arcade Archives Mario Bros. - Sorting Date changed from 27/09/2017 to 10/11/2017
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+Super Mario Odyssey - Sorting Date changed from 27/10/2017 to 10/11/2017
+Fire Emblem Warriors - Sorting Date changed from 20/10/2017 to 10/11/2017
+Fire Emblem Warriors Special Edition - Sorting Date changed from 20/10/2017 to 10/11/2017
+FIFA 18 - Sorting Date changed from 29/09/2017 to 10/11/2017
+Wargroove - Sorting Date changed from 31/12/2018 to 10/11/2017
+AWAY: Journey to the Unexpected - Sorting Date changed from 31/12/2018 to 10/11/2017
+CELESTE - Sorting Date changed from 31/12/2018 to 10/11/2017
+Fe - Sorting Date changed from 31/12/2018 to 10/11/2017
+Flipping Death - Sorting Date changed from 31/12/2018 to 10/11/2017
+Huntdown - Sorting Date changed from 01/01/2030 to 10/11/2017
+Monster Boy and the Cursed Kingdom - Sorting Date changed from 31/12/2018 to 10/11/2017
+Mulaka - Sorting Date changed from 31/12/2018 to 10/11/2017
+project OCTOPATH TRAVELER (working title) - Sorting Date changed from 31/12/2018 to 10/11/2017
+Rocket League® - Sorting Date changed from 30/12/2017 to 10/11/2017
+Sonic Forces - Sorting Date changed from 30/12/2017 to 10/11/2017
+Super Meat Boy Forever - Sorting Date changed from 31/12/2018 to 10/11/2017
+Syberia 3 - Sorting Date changed from 01/01/2030 to 10/11/2017
+Wolfenstein II: The New Colossus - Sorting Date changed from 31/12/2018 to 10/11/2017
+Yoku's Island Express - Sorting Date changed from 31/12/2018 to 10/11/2017
+Steep - Sorting Date changed from 01/01/2030 to 10/11/2017
+Dragon Quest Builders - Sorting Date changed from 31/03/2018 to 10/11/2017
+Kentucky Route Zero: TV Edition - Sorting Date changed from 31/12/2018 to 10/11/2017
+Light Fingers - Sorting Date changed from 31/12/2018 to 10/11/2017
+Next Up Hero - Sorting Date changed from 31/12/2018 to 10/11/2017
+Runner3 - Sorting Date changed from 31/12/2018 to 10/11/2017
+Shovel Knight: King of Cards - Sorting Date changed from 31/12/2018 to 10/11/2017
+LOST SPHEAR - Sorting Date changed from 23/01/2018 to 10/11/2017
+Battle Chasers Nightwar - Sorting Date changed from 31/10/2017 to 10/11/2017
+Battle Chef Brigade - Sorting Date changed from 30/12/2017 to 10/11/2017
+Dandara - Sorting Date changed from 31/12/2017 to 10/11/2017
+DOOM - Sorting Date changed from 30/12/2017 to 10/11/2017
+Dragon Marked For Death - Sorting Date changed from 29/12/2017 to 10/11/2017
+Floor Kids - Sorting Date changed from 30/12/2017 to 10/11/2017
+Mom Hid My Game! - Sorting Date changed from 31/12/2017 to 10/11/2017
+Monopoly for Nintendo Switch - Sorting Date changed from 31/10/2017 to 10/11/2017
+Nine Parchments - Sorting Date changed from 30/12/2017 to 10/11/2017
+PAYDAY 2 - Sorting Date changed from 29/12/2017 to 10/11/2017
+Pocket Rumble - Sorting Date changed from 31/12/2017 to 10/11/2017
+Poly Bridge - Sorting Date changed from 30/12/2017 to 10/11/2017
+RIME - Sorting Date changed from 31/10/2017 to 10/11/2017
+Sausage Sports Club - Sorting Date changed from 31/10/2017 to 10/11/2017
+Stardew Valley - Sorting Date changed from 31/12/2017 to 10/11/2017
+WWE 2K18 - Sorting Date changed from 31/10/2017 to 10/11/2017
+Unbox: Newbie's Adventure - Sorting Date changed from 31/12/2017 to 10/11/2017
+Earth Atlantis - Sorting Date changed from 31/10/2017 to 10/11/2017
+L.A. Noire - Sorting Date changed from 14/11/2017 to 10/11/2017
+Yono and the Celestial Elephants - Sorting Date changed from 12/10/2017 to 10/11/2017
+Tiny Barbarian DX - Sorting Date changed from 10/10/2017 to 10/11/2017
+Axiom Verge - Sorting Date changed from 17/10/2017 to 10/11/2017
+Got all data for new game Tumblestone
+Golf Story - Sorting Date changed from 31/12/2017 to 10/11/2017
+Wulverblade - Sorting Date changed from 31/12/2017 to 10/11/2017
+ONE PIECE: Unlimited World Red Deluxe Edition - Sorting Date changed from 29/09/2017 to 10/11/2017
+Got all data for new game Astro Bears Party
+Conga Master Party! - Sorting Date changed from 28/09/2017 to 10/11/2017
+Arcade Archives Mario Bros. - Sorting Date changed from 27/09/2017 to 10/11/2017
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+All Data Finished Parsing
+Uh oh! There were only 0 games written to the file out of 63. Not saving data.
+---------------------------------------------------------
+September 23, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 24, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+---------------------------------------------------------
+September 25, 2017
+Succesfully opened 205 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 209 links.
+Axiom Verge - Sorting Date changed from 17/10/2017 to 05/10/2017
+Got all data for new game Tumblestone
+Got all data for new game Astro Bears Party
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 26, 2017
+Succesfully opened 207 games from the file data.json.
+Removed 143 games from that list.
+The resulting list of games to update is 64 games long.
+Successfully opened Nintendo's Website and found 209 links.
+Sonic Forces - Sorting Date changed from 30/12/2017 to 07/11/2017
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 27, 2017
+Succesfully opened 207 games from the file data.json.
+Removed 144 games from that list.
+The resulting list of games to update is 63 games long.
+Successfully opened Nintendo's Website and found 224 links.
+Got all data for new game Farming Simulator Nintendo Switch Edition
+Got all data for new game Spelunker Party!
+Got all data for new game Touhou Kobuto V: Burst Battle
+Got all data for new game OXENFREE
+Got all data for new game Lovers in a Dangerous Spacetime
+Got all data for new game Binaries
+Got all data for new game Brave Dungeon + Dark Witch Story:COMBAT
+Got all data for new game BUTCHER
+Got all data for new game DEEMO
+Earth Atlantis - Sorting Date changed from 31/10/2017 to 28/09/2017
+Golf Story - Sorting Date changed from 31/12/2017 to 28/09/2017
+Got all data for new game INVERSUS Deluxe
+Got all data for new game Pankapu
+Got all data for new game Physical Contact: Picture Place
+Got all data for new game PICROSS S
+Got all data for new game Sparkle 2
+Got all data for new game Tower Of Babel
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 28, 2017
+Succesfully opened 222 games from the file data.json.
+Removed 158 games from that list.
+The resulting list of games to update is 64 games long.
+Successfully opened Nintendo's Website and found 225 links.
+Got all data for new game ACA NEOGEO BURNING FIGHT
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+September 29, 2017
+Succesfully opened 223 games from the file data.json.
+Removed 161 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 228 links.
+---------------------------------------------------------
+September 30, 2017
+Succesfully opened 223 games from the file data.json.
+Removed 161 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 228 links.
+---------------------------------------------------------
+October 1, 2017
+Succesfully opened 223 games from the file data.json.
+Removed 161 games from that list.
+The resulting list of games to update is 62 games long.
+Successfully opened Nintendo's Website and found 228 links.
+Got all data for new game Syberia
+Got all data for new game Ninja Shodown
+Got all data for new game Volgarr the Viking
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+October 2, 2017
+Succesfully opened 226 games from the file data.json.
+Removed 161 games from that list.
+The resulting list of games to update is 65 games long.
+Successfully opened Nintendo's Website and found 228 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+October 3, 2017
+Succesfully opened 226 games from the file data.json.
+Removed 162 games from that list.
+The resulting list of games to update is 64 games long.
+Successfully opened Nintendo's Website and found 229 links.
+Got all data for new game Don't Knock Twice
+Stardew Valley - Sorting Date changed from 31/12/2017 to 05/10/2017
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+October 4, 2017
+Succesfully opened 227 games from the file data.json.
+Removed 162 games from that list.
+The resulting list of games to update is 65 games long.
+Successfully opened Nintendo's Website and found 230 links.
+Got all data for new game Just Dance® 2018
+All Data Finished Parsing
+Uh oh! There were only 64 games written to the file out of 65. Not saving data.
+---------------------------------------------------------
+October 5, 2017
+Succesfully opened 227 games from the file data.json.
+Removed 167 games from that list.
+The resulting list of games to update is 60 games long.
+---------------------------------------------------------
+October 6, 2017
+Succesfully opened 227 games from the file data.json.
+Removed 168 games from that list.
+The resulting list of games to update is 59 games long.
+---------------------------------------------------------
+October 7, 2017
+Succesfully opened 227 games from the file data.json.
+Removed 168 games from that list.
+The resulting list of games to update is 59 games long.
+---------------------------------------------------------
+October 7, 2017
+Succesfully opened 227 games from the file data.json.
+Removed 168 games from that list.
+The resulting list of games to update is 59 games long.
+Successfully opened Nintendo's Website and found 235 links.
+Unbox: Newbie's Adventure - Sorting Date changed from 31/12/2017 to 21/11/2017
+Got all data for new game Just Dance® 2018
+Got all data for new game Party Golf
+Got all data for new game Rogue Trooper Redux
+Got all data for new game The Flame In The Flood: Complete Edition
+Wulverblade - Sorting Date changed from 31/12/2017 to 12/10/2017
+Got all data for new game 88 Heroes - 98 Heroes Edition
+Got all data for new game ACA NEOGEO METAL SLUG X
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+October 8, 2017
+Succesfully opened 233 games from the file data.json.
+Removed 169 games from that list.
+The resulting list of games to update is 64 games long.
+Successfully opened Nintendo's Website and found 235 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+October 9, 2017
+Succesfully opened 233 games from the file data.json.
+Removed 169 games from that list.
+The resulting list of games to update is 64 games long.
+Successfully opened Nintendo's Website and found 235 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+October 10, 2017
+Succesfully opened 233 games from the file data.json.
+Removed 172 games from that list.
+The resulting list of games to update is 61 games long.
+Successfully opened Nintendo's Website and found 235 links.
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!
+---------------------------------------------------------
+October 11, 2017
+Succesfully opened 233 games from the file data.json.
+Removed 172 games from that list.
+The resulting list of games to update is 61 games long.
+Successfully opened Nintendo's Website and found 238 links.
+---------------------------------------------------------
+October 12, 2017
+Succesfully opened 233 games from the file data.json.
+Removed 175 games from that list.
+The resulting list of games to update is 58 games long.
+---------------------------------------------------------
+October 13, 2017
+Succesfully opened 233 games from the file data.json.
+Removed 175 games from that list.
+The resulting list of games to update is 58 games long.
+Successfully opened Nintendo's Website and found 244 links.
+Xenoblade Chronicles 2 - Sorting Date changed from 01/12/2017 to 31/03/2018
+The Elder Scrolls V: Skyrim® - Sorting Date changed from 17/11/2017 to 01/12/2017
+Super Mario Odyssey - Sorting Date changed from 27/10/2017 to 10/11/2017
+Huntdown - Sorting Date changed from 01/01/2030 to 31/12/2018
+Rocket League® - Sorting Date changed from 30/12/2017 to 31/12/2018
+Syberia 3 - Sorting Date changed from 01/01/2030 to 31/12/2018
+Sausage Sports Club - Sorting Date changed from 31/10/2017 to 30/12/2017
+Got all data for new game Syberia 2
+RiME - Sorting Date changed from 31/10/2017 to 14/11/2017
+MONOPOLY® for Nintendo Switch? - Sorting Date changed from 31/10/2017 to 07/11/2017
+Got all data for new game Monster Jam Crush It!
+Got all data for new game Elliot Quest
+Got all data for new game JYDGE
+Got all data for new game The Count Lucanor
+Got all data for new game The Jackbox Party Pack 4
+Got all data for new game Putty Pals
+Got all data for new game ACA NEOGEO THE KING OF FIGHTERS '95
+Got all data for new game Neon Chrome
+Got all data for new game Squareboy vs Bullies: Arena Edition
+All Data Finished Parsing
+Uh oh! There were only 54 games written to the file out of 66. Not saving data.
+---------------------------------------------------------
+October 14, 2017
+Succesfully opened 233 games from the file data.json.
+Removed 175 games from that list.
+The resulting list of games to update is 58 games long.
+Successfully opened Nintendo's Website and found 245 links.
+Xenoblade Chronicles 2 - Sorting Date changed from 01/12/2017 to 31/03/2018
+Snipperclips Plus - Cut it out, together! - Sorting Date changed from 10/11/2017 to 17/11/2017
+Fire Emblem Warriors - Sorting Date changed from 20/10/2017 to 27/10/2017
+Wargroove - Sorting Date changed from 31/12/2018 to 20/10/2017
+Rocket League® - Sorting Date changed from 30/12/2017 to 31/12/2018
+Syberia 3 - Sorting Date changed from 01/01/2030 to 31/12/2018
+DOOM - Sorting Date changed from 30/12/2017 to 31/12/2017
+Mom Hid My Game! - Sorting Date changed from 31/12/2017 to 30/12/2017
+Sausage Sports Club - Sorting Date changed from 31/10/2017 to 30/12/2017
+Got all data for new game Syberia 2
+RiME - Sorting Date changed from 31/10/2017 to 14/11/2017
+---------------------------------------------------------
+October 15, 2017
+Succesfully opened 233 games from the file data.json.
+Removed 175 games from that list.
+The resulting list of games to update is 58 games long.
+Successfully opened Nintendo's Website and found 245 links.
+Xenoblade Chronicles 2 - Sorting Date changed from 01/12/2017 to 31/03/2018
+The Elder Scrolls V: Skyrim® - Sorting Date changed from 17/11/2017 to 01/12/2017
+Battle Chasers Nightwar - Sorting Date changed from 31/10/2017 to 23/01/2018
+Dandara - Sorting Date changed from 31/12/2017 to 30/12/2017
+Got all data for new game Syberia 2
+RiME - Sorting Date changed from 31/10/2017 to 14/11/2017
+Got all data for new game Cartoon Network: Battle Crashers
+Got all data for new game Monster Jam Crush It!
+Got all data for new game Elliot Quest
+Got all data for new game JYDGE
+Got all data for new game The Count Lucanor
+Got all data for new game The Jackbox Party Pack 4
+Got all data for new game Putty Pals
+Got all data for new game ACA NEOGEO THE KING OF FIGHTERS '95
+Got all data for new game Neon Chrome
+All Data Finished Parsing
+Uh oh! There were only 56 games written to the file out of 67. Not saving data.
+---------------------------------------------------------
+October 16, 2017
+Succesfully opened 233 games from the file data.json.
+Removed 175 games from that list.
+The resulting list of games to update is 58 games long.
+Successfully opened Nintendo's Website and found 245 links.
+Xenoblade Chronicles 2 - Sorting Date changed from 01/12/2017 to 31/03/2018
+The Elder Scrolls V: Skyrim® - Sorting Date changed from 17/11/2017 to 01/12/2017
+Super Mario Odyssey - Sorting Date changed from 27/10/2017 to 10/11/2017
+Wargroove - Sorting Date changed from 31/12/2018 to 20/10/2017
+Nine Parchments - Sorting Date changed from 30/12/2017 to 31/12/2017
+---------------------------------------------------------
+October 17, 2017
+Succesfully opened 233 games from the file data.json.
+Removed 177 games from that list.
+The resulting list of games to update is 56 games long.
+Successfully opened Nintendo's Website and found 248 links.
+Xenoblade Chronicles 2 - Sorting Date changed from 01/12/2017 to 31/03/2018
+The Elder Scrolls V: Skyrim® - Sorting Date changed from 17/11/2017 to 01/12/2017
+---------------------------------------------------------
+October 18, 2017
+Succesfully opened 233 games from the file data.json.
+Removed 177 games from that list.
+The resulting list of games to update is 56 games long.
+Successfully opened Nintendo's Website and found 251 links.
+Got all data for new game This Is the Police
+Got all data for new game Syberia 2
+RiME - Sorting Date changed from 31/10/2017 to 14/11/2017
+DOOM - Sorting Date changed from 30/12/2017 to 10/11/2017
+Got all data for new game Heroes of the Monkey Tavern
+---------------------------------------------------------
+October 19, 2017
+Succesfully opened 233 games from the file data.json.
+Removed 179 games from that list.
+The resulting list of games to update is 54 games long.
+Successfully opened Nintendo's Website and found 256 links.
+Got all data for new game Human: Fall Flat
+Got all data for new game This Is the Police
+Got all data for new game Syberia 2
+Got all data for new game MXGP3 - The Official Motocross Videogame
+RiME - Sorting Date changed from 31/10/2017 to 14/11/2017
+DOOM - Sorting Date changed from 30/12/2017 to 10/11/2017
+Got all data for new game Heroes of the Monkey Tavern
+Got all data for new game Cartoon Network: Battle Crashers
+Got all data for new game Monster Jam Crush It!
+Got all data for new game King Oddball
+Got all data for new game Violett
+Got all data for new game Knight Terrors
+Got all data for new game The Mummy Demastered
+Got all data for new game ACA NEOGEO ROBO ARMY
+Got all data for new game Elliot Quest
+Got all data for new game JYDGE
+Got all data for new game Revenant Saga
+Got all data for new game Super Ping Pong Trick Shot
+Got all data for new game The Count Lucanor
+Got all data for new game The Jackbox Party Pack 4
+Got all data for new game Putty Pals
+Got all data for new game ACA NEOGEO THE KING OF FIGHTERS '95
+Got all data for new game Neon Chrome
+Got all data for new game Squareboy vs Bullies: Arena Edition
+Unbox: Newbie's Adventure - Sorting Date changed from 21/11/2017 to 12/10/2017
+All Data Finished Parsing
+Finished Successfully! Saving Updates to JSON!

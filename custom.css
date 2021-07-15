@@ -1,0 +1,84 @@
+.row-icon{
+width: auto;
+height: 50px;
+}
+.title{
+    text-align: center;
+    margin: .5em 0px;
+}
+.dt-body-center{
+    text-align:center;
+}
+.dt-head-right{
+    text-align:right;
+}
+.input-Label{
+  display: inline-block !important;
+  width: 95px !important;
+  text-align: right !important;
+}
+.goodData{
+    color: green;
+    font-weight: 600;
+}
+.badData{
+    color: red;
+    font-weight: 600;
+}
+.updateData{
+    color: #dad629;
+    font-weight: 900;
+}
+.anyData{
+    font-weight: 600;
+}
+.modal-title{
+    font-size: 25px;
+}
+.header-card{
+    background-color: #ecf7f0;
+    padding: 2px 2px !important;
+    white-space: nowrap;
+    text-align: center;
+}
+.inLine * {
+    display: inline-block !important;
+}
+.well{
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #f5f5f5 !important;
+    border: 1px solid #e3e3e3 !important;
+}
+.vcenter {
+    display: flex;
+    align-items: center;
+}
+/*Add Checkmarks to ColVis Button*/
+.dt-button-collection a.buttons-columnVisibility:before,
+.dt-button-collection a.buttons-columnVisibility.active span:before {
+display:block;
+position:absolute;
+top:1.2em;
+left:0;
+width:12px;
+height:12px;
+box-sizing:border-box;
+}
+.dt-button-collection a.buttons-columnVisibility:before {
+content:' ';
+margin-top:-6px;
+margin-left:5px;
+border:1px solid black;
+border-radius:0px;
+}
+.dt-button-collection a.buttons-columnVisibility.active span:before {
+content:'\2714';
+margin-top:-11px;
+margin-left:8px;
+text-align:center;
+text-shadow:1px 1px #DDD, -1px -1px #DDD, 1px -1px #DDD, -1px 1px #DDD;
+}
+.dt-button-collection a.buttons-columnVisibility span {
+margin-left:8px;
+}
